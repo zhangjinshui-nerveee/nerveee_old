@@ -26,7 +26,7 @@ education:
     - course: M.S. in Power Electronics
       institution: Power Electronics and Renewable Energy Center, Xi’an Jiaotong University
       year: 2018
-email: ""
+email: jimmy_zhangjinshui@foxmail.com
 user_groups:
   - Researchers
   - Visitors
