@@ -33,12 +33,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Assistant Engineer"
+  company = "AC Power Department, Vertiv Co."
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Xi’an, China"
+  date_start = "2018-08-01"
+  date_end = "2018-09-01"
+  description = """Learned the working principles, debugging process and production procedure of Uninterruptible Power Supply (UPS), as well as corporate culture.
+  Conducted mechanical vibration and noise standard test of the 20 kW UPS prototype"""
 
 +++
