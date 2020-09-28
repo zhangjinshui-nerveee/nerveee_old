@@ -18,18 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Application Engineer Intern"
+  company = "Lonten Semiconductor Co."
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Xi’an, China"
+  date_start = "2019-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """  
+  * Investigated MOSFET’s working principles, testing technology and applications in power converters
+  * Used SiC MOSFETs to develop a 3kW single-phase Totem-Pole PFC rectifier, achieving 98.1% peak
+efficiency and unity power factor
   """
 
 [[experience]]
@@ -39,8 +37,8 @@ date_format = "Jan 2006"
   location = "Xi’an, China"
   date_start = "2018-08-01"
   date_end = "2018-09-01"
-  description = """Learned the working principles, debugging process and production procedure of Uninterruptible Power Supply (UPS), as well as corporate culture.
-  
-  Conducted mechanical vibration and noise standard test of the 20 kW UPS prototype"""
+  description = """
+  * Learned the working principles, debugging process and production procedure of Uninterruptible Power Supply (UPS), as well as corporate culture
+  * Conducted mechanical vibration and noise standard test of the 20 kW UPS prototype"""
 
 +++
