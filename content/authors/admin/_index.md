@@ -7,7 +7,7 @@ superuser: true
 authors:
   - admin
 title: Jimmy Zhang
-role: Postgraduate in Power Electronics
+role: ""
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
