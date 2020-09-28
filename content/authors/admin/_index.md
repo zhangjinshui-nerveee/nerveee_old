@@ -21,11 +21,11 @@ social:
     link: https://github.com/jimmy-zhangjinshui
 education:
   courses:
-    - course: B.S. in Electrical Engineering
-      institution: Tianjin University
-      year: 2021
     - course: M.S. in Power Electronics
       institution: Power Electronics and Renewable Energy Center, Xi’an Jiaotong University
+      year: 2021
+    - course: B.S. in Electrical Engineering
+      institution: Tianjin University
       year: 2018
 email: jimmy_zhangjinshui@foxmail.com
 user_groups:
