@@ -23,13 +23,13 @@ date_format = "Jan 2006"
   title = "International English Language Testing System, IELTS"
   date_start = "2020-09-25"
   date_end = ""
-  description = "
+  description = """
   * overall 7.5
   * Listening 8.5
   * Reading 8.5
   * Speaking 6.5
   * Writing 6.5  
-  "
+  """
 
 [[item]]
   organization = "Xi’an Jiaotong University"
