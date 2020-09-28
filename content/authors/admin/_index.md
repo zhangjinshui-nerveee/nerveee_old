@@ -22,10 +22,10 @@ education:
   courses:
     - course: B.S. in Electrical Engineering
       institution: Tianjin University
-      year: 2018
+      year: ""
     - course: M.S. in Power Electronics
       institution: Power Electronics and Renewable Energy Center, Xi’an Jiaotong University
-      year: 2021
+      year: ""
 email: ""
 user_groups:
   - Researchers
