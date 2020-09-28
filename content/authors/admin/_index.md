@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Xi'an Jiaotong University
+    url: www.xjtu.edu.cn
 superuser: true
 authors:
   - admin
@@ -15,23 +15,17 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: jimmy_zhangjinshui@foxmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/jimmy-zhangjinshui
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S. in Electrical Engineering
+      institution: Tianjin University
+      year: 2018
+    - course: M.S. in Power Electronics
+      institution: Power Electronics and Renewable Energy Center, Xi’an Jiaotong University
+      year: 2021
 email: ""
 user_groups:
   - Researchers
