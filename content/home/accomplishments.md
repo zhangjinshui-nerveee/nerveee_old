@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = "For his excellent academic performance and devotion to the community."
+  description = """For his excellent academic performance and devotion to the community."""
   
 [[item]]
   organization = "Consortium for Mathematics and Its Application"
@@ -49,8 +49,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2017-01-01"
   date_end = ""
-  description = "Collected geographic information of Kariba Dam and built a model to realise its optimal resource allocation
-using zero-one integer programming algorithm."
+  description = """Collected geographic information of Kariba Dam and built a model to realise its optimal resource allocation using zero-one integer programming algorithm."""
   
  [[item]]
   organization = " State Grid Corporation of China"
@@ -59,7 +58,7 @@ using zero-one integer programming algorithm."
   url = ""
   date_start = "2016-09-01"
   date_end = ""
-  description = "For his excellent academic performance and devotion to the community."
+  description = """For his excellent academic performance and devotion to the community."""
   
  [[item]]
   organization = "Tianjin University"
@@ -68,6 +67,6 @@ using zero-one integer programming algorithm."
   url = ""
   date_start = "2014-09-01"
   date_end = "2018-09-01"
-  description = "For his excellent academic performance and devotion to the community."
+  description = """For his excellent academic performance and devotion to the community."""
 
 +++
