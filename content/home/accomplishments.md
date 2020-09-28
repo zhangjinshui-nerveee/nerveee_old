@@ -24,11 +24,12 @@ date_format = "Jan 2006"
   date_start = "2020-09-25"
   date_end = ""
   description = """
-  * overall 7.5
+  The test results are
   * Listening 8.5
   * Reading 8.5
   * Speaking 6.5
   * Writing 6.5  
+  * overall 7.5
   """
 
 [[item]]
@@ -37,18 +38,35 @@ date_format = "Jan 2006"
   title = "Excellent Undergraduate"
   url = ""
   certificate_url = ""
-  date_start = "2018-03-01"
+  date_start = "2019-09-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Reasons."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Consortium for Mathematics and Its Application"
+  organization_url = "https://www.comap.com/undergraduate/contests/index.html"
+  title = "Meritorious Winner"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = ""
+  
+ [[item]]
+  organization = " State Grid Corporation of China"
+  organization_url = "https://www.comap.com/undergraduate/contests/index.html"
+  title = "Ultra High Voltage Scholarship"
+  url = ""
+  date_start = "2016-09-01"
+  date_end = ""
+  description = ""
+  
+ [[item]]
+  organization = "Tianjin University"
+  organization_url = "http://www.tju.edu.cn/index.htm"
+  title = "Merit Student"
+  url = ""
+  date_start = "2014-09-01"
+  date_end = "2018-09-01"
   description = ""
 
 +++
