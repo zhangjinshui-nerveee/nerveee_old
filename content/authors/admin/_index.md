@@ -1,5 +1,6 @@
 ---
 organizations:
+  - name: Power Electronics and Renewable Energy Center
   - name: Xi'an Jiaotong University
     url: www.xjtu.edu.cn
 superuser: true
