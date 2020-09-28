@@ -40,6 +40,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2018-09-01"
   description = """Learned the working principles, debugging process and production procedure of Uninterruptible Power Supply (UPS), as well as corporate culture.
+  
   Conducted mechanical vibration and noise standard test of the 20 kW UPS prototype"""
 
 +++
