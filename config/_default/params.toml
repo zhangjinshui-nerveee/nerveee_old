@@ -97,17 +97,17 @@ address = {street = "iHarbour", city = "Xi'an", region = "Shaanxi", postcode = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.23053", longitude = "108.93425"}
+coordinates = {latitude = "34.25529104680004", longitude = "108.65736007690431"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 3 and take the stairs to Office 3-4157 on Floor 4"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["08:00 to 18:00"]
+office_hours = ["08:00 to 12:00"，"13:30 to 18:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
