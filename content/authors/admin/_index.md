@@ -9,8 +9,7 @@ authors:
 title: Jimmy Zhang
 role: ""
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Power Electronics
   - High power density
@@ -32,14 +31,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Ground control to major Tom
-
-Commencing countdown engines on
-
-10
-
-9
-
-8
-
-7
+He is a postgraduate in Power Electronics.
