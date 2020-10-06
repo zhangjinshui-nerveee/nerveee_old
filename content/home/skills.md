@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "C"
+  name = "C/C++"
   description = ""  
   
 [[feature]]
