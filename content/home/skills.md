@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "C"
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "microchip"
   icon_pack = "fas"
-  name = "Photography"
+  name = "layout design"
   description = ""
 
 # Uncomment to use emoji icons.
