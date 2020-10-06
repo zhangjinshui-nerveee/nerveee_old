@@ -31,6 +31,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "layout design"
   description = ""
+  
+[[feature]]
+  icon = "dumbbell"
+  icon_pack = "fas"
+  name = "working out"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
