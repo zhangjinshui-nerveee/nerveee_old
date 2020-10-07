@@ -31,4 +31,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-He is a postgraduate in Power Electronics.
+Mr. Jinshui Zhang received his BS degree in Electrical Engineering from Tianjin University in China. He maintained a high GPA of 3.82/4.0 and mastered knoweledge of power systems. Also, he was a big fan of mathematic modelling and optimization algorithms. He did his undergraduate thesis research applying a new topology of PFC rectifier realizing active power decoupling. 
+
+He has hitherto started his postgraduate study in Power Electronics in Xi'an Jiaotong University as a research assistant of Prof. Jinjun Liu. His research focuses on the design of high power density converters. 
