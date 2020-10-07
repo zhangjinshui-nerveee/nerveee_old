@@ -33,4 +33,11 @@ user_groups:
 ---
 Mr. Jinshui Zhang received his BS degree in Electrical Engineering from Tianjin University in China. He maintained a high GPA of 3.82/4.0 and mastered knoweledge of power systems. Also, he was a big fan of mathematic modelling and optimization algorithms. He did his undergraduate thesis research applying a new topology of PFC rectifier realizing active power decoupling. 
 
-He has hitherto started his postgraduate study in Power Electronics in Xi'an Jiaotong University as a research assistant of Prof. Jinjun Liu. His research focuses on the design of high power density converters. 
+He has hitherto started his postgraduate study in Power Electronics in Xi'an Jiaotong University as a research assistant of Prof. Jinjun Liu. He performed an excellent mastery of lectures, maintaining a GPA of 3.8/4.0. Meanwhile, his research focuses on the design of high power density converters. He proposed a non-linear control strategy to eliminate the current distortion of Totem-Pole rectifier, and did a research on PIC inductor's saturation feature, etc. At present, he works on the design of resonant tank of LLC converter. 
+
+
+
+
+
+
+
