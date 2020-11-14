@@ -8,6 +8,8 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
+Email: jimmy_zhangjinshui@foxmail.com
+
 # Automatically link email and phone?
 autolink = true
 
