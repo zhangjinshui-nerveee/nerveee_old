@@ -32,10 +32,10 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Mr. Zhang received his B.S. degree in Electrical Engineering from Tianjin University in China. He maintained a high GPA of 3.82/4.0 and mastered knowledge of power systems. Also, he was a big fan of mathematics modelling and optimization algorithms. For his graduation project, he did a research on a novel topology of PFC rectifier realizing active power decoupling, which was the beginning of his exploration in Power Electronics.
+Mr. Zhang received his B.S. degree in Electrical Engineering from Tianjin University in China. He maintained a high GPA of 3.82/4.0 and mastered the knowledge of power systems. Also, he was a big fan of mathematic modelling and optimization algorithms. For his graduation project, he did a research on a novel topology of PFC rectifier realizing active power decoupling, which was the beginning of his exploration in Power Electronics.
 
-He chose to pursue a Master degree in Xi'an Jiaotong University from the year 2018. He acquired valuable knowledge and skills related to control and design of power electronic systems from various lectures and courses.
+He chose to pursue a Master degree in Xi'an Jiaotong University from the year 2018. He acquired valuable knowledge and skills related to control and design of power electronic systems from various lectures and forums.
 
-Meanwhile, as a research assistant of IEEE Fellow Prof. Liu Jinjun, he has hitherto conducted a series of studies on high-frequency and high-power-density power converters at the Power Electronics and Renewable Energy Center. Results of his work so far include but are not limited to the development of Single-Phase Totem-Pole PFC rectifier, the investigation on the non-linear characteristics of Powdered Iron Core inductors, the optimization of resonant tank parameters for LLC converter. 
+Meanwhile, as a research assistant of IEEE Fellow Prof. Liu Jinjun, he has hitherto conducted a series of studies on high-frequency and high-power-density converters at the Power Electronics and Renewable Energy Center. Results of his work so far include but are not limited to the development of Single-Phase Totem-Pole PFC rectifier, the investigation on the non-linear characteristics of Powdered Iron Core inductors, and the optimization of resonant tank parameters for LLC converter. 
 
-In the future, he wants to continue his journey in Electrical and Electronic Engineering. Specifically, he has high faith in the application of Wide-Band-Gap devices in the future. Meanwhile, many cool technologies like Wireless Power Transfer are also very attractive to him.
+In the future, he wants to continue his journey in Electrical and Electronic Engineering. Specifically, he has high faith in the development of Wide-Bandgap devices. Meanwhile, many cool technologies like Wireless Power Transfer are also very attractive to him.
