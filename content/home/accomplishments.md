@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * Writing 6.5  
   * overall 7.5
   
-  Years of watching F.R.I.E.N.D.S finally paid off, hah hah...
+  Being a big fan of F.R.I.E.N.D.S finally paid off...
   """
 
 [[item]]
