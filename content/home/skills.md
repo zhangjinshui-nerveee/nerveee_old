@@ -21,7 +21,7 @@ subtitle = ""
 #  description = ""
   
 [[feature]]
-  icon = "code"
+  icon = "wave-square"
   icon_pack = "fas"
   name = "Simulation"
   description = ""  
