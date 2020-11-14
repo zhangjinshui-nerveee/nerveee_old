@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Xi’an, China"
   date_start = "2018-09-01"
-  date_end = "2021-07-01"
+  date_end = ""
   description = """  
   **Duties**
   * Investigation of MOSFET’s working principles, testing technology and applications in power converters
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 efficiency and unity power factor
 
   **Related Publications**<br>
-  [1] Jinshui Zhang, et al. "Precise correction of current zero-crossing distortion of totem pole PFC converter", in 2020 11th International Conference on Power Electronics and ECCE Asia<br>  
+  [1] Jinshui Zhang, et al. "Precise correction of current zero-crossing distortion of totem pole PFC converter", in 2020 11th International Conference on Power Electronics and ECCE Asia
   [2] Jinshui Zhang, et al. "Downsizing Design of Powdered Iron Core Inductors Based on Variable-Frequency Modulation Targeting at Harmonics Suppression", in the 21st IEEE Workshop on Control and Modeling for Power Electronics
   """
 
@@ -61,8 +61,12 @@ efficiency and unity power factor
   date_end = "2018-09-01"
   description = """
   **Duties**
-  * Learned the working principles, debugging process and production procedure of Uninterruptible Power Supply (UPS), as well as corporate culture
-  * Conducted mechanical vibration and noise standard test of the 20 kW UPS prototype"""
+  * Investigation of  the working principles, design process and production procedure of Uninterruptible Power Supply (UPS)
+  * Training of International Corperation Culture
+  * Mechanical vibration and noise standard test of the 20 kW UPS prototype
+  **Employer evaluation**<br>
+  "He showed enthusiasm, talent and caution during his internship. He was a quick learner. He put all his energy and effort into his work. He cared every detail of the product and never hesitated to ask co-workers or his mentor for help. Also, he was willing to take suggestions from others, and he could work overtime to ensure his work is fulfilled before due. His diligence, attitude and cooperation left all his co-workers and our company a very good impression. "
+  """
   
  [[experience]]
   title = "Major Principal"
@@ -72,8 +76,11 @@ efficiency and unity power factor
   date_start = "2016-07-01"
   date_end = "2016-09-01"
   description = """
+  **Duties**
   * Designed and built some popular equipment for exhibition based on Meissner effect of Superconductor,such as Superconductor Maglev Rail Car, Roller Coaster, etc.
   * Recruited 21 volunteers and organized lab visiting activities of the camp
+  **Video Reference**
+  * [Superconductor Maglev Rail Car, Roller Coaster](https://www.bilibili.com/video/BV1b5411V7fC)
   """
 
 +++
