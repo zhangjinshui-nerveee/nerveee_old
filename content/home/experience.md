@@ -25,9 +25,12 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """  
-  * Investigated MOSFET’s working principles, testing technology and applications in power converters
-  * Used SiC MOSFETs to develop a 3kW single-phase Totem-Pole PFC rectifier, achieving 98.1% peak
+  Duties
+  * Investigation of MOSFET’s working principles, testing technology and applications in power converters
+  * Development of a a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak
 efficiency and unity power factor
+  Related Publications
+  [1] 
   """
 
 [[experience]]
