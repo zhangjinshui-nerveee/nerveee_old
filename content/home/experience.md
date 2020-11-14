@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 
   **Related Publications**<br>
   [1] Jinshui Zhang, et al. "Precise correction of current zero-crossing distortion of totem pole PFC converter", in 2020 11th International Conference on Power Electronics and ECCE Asia  
-  [2] Jinshui Zhang, et al. "Downsizing Design of Powdered Iron Core Inductors Based on Variable-Frequency Modulation Targeting at Harmonics Suppression", in the 21st IEEE Workshop on Control and Modeling for Power Electronics [poster presentation link](https://www.bilibili.com/video/BV1bp4y167Ux)
+  [2] Jinshui Zhang, et al. "Downsizing Design of Powdered Iron Core Inductors Based on Variable-Frequency Modulation Targeting at Harmonics Suppression", in the 21st IEEE Workshop on Control and Modeling for Power Electronics [poster presentation](https://www.bilibili.com/video/BV1bp4y167Ux)
   """
 
 [[experience]]
