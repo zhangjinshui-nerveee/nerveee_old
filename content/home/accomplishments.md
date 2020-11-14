@@ -69,7 +69,7 @@ date_format = "Jan 2006"
   
  [[item]]
   organization = " State Grid Corporation of China"
-  organization_url = "https://www.comap.com/undergraduate/contests/index.html"
+  organization_url = "http://www.sgcc.com.cn/"
   title = "Ultra High Voltage Scholarship"
   url = ""
   date_start = "2016-09-01"
