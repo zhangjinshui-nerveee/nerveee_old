@@ -18,19 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Application Engineer Intern"
-  company = "Lonten Semiconductor Co."
+  title = "Research Assistant"
+  company = "Power Electronics and Renewable Energy Center, Xi'an Jiaotong University"
   company_url = ""
   location = "Xi’an, China"
-  date_start = "2019-09-01"
+  date_start = "2018-09-01"
   date_end = ""
   description = """  
   Duties
   * Investigation of MOSFET’s working principles, testing technology and applications in power converters
   * Development of a a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak
 efficiency and unity power factor
+
   Related Publications
-  [1] 
+  
+  [1] Jinshui Zhang, et al. "Precise correction of current zero-crossing distortion of totem pole PFC converter", in 2020 11th International Conference on Power Electronics and ECCE Asia
+  
+  [2] Jinshui Zhang, et al. "Downsizing Design of Powdered Iron Core Inductors Based on Variable-Frequency Modulation Targeting at Harmonics Suppression", in the 21st IEEE Workshop on Control and Modeling for Power Electronics
+  """
+
+[[experience]]
+  title = "Application Engineer Intern"
+  company = "Lonten Semiconductor Co."
+  company_url = ""
+  location = "Xi’an, China"
+  date_start = "2019-09-01"
+  date_end = "2020-01-31"
+  description = """  
+  Duties
+  * Investigation of MOSFET’s working principles, testing technology and applications in power converters
+  * Development of a a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak
+efficiency and unity power factor
+
+  Related Publications
+  
+  [1] Yan Zhang, Jinshui Zhang, et al. "A Novel Control Scheme Eliminating Current Zero-Crossing Distortion Based on Online Compensation", Chinese Patent
   """
 
 [[experience]]
