@@ -14,22 +14,28 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""
+#[[feature]]
+#  icon = "python"
+#  icon_pack = "fab"
+#  name = "Python"
+#  description = ""
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "C/C++"
+  name = "Simulation"
+  description = ""  
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Coding"
   description = ""  
   
 [[feature]]
   icon = "microchip"
   icon_pack = "fas"
-  name = "PCB"
+  name = "Hardware Design"
   description = ""
 
 # Uncomment to use emoji icons.
