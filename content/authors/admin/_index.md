@@ -6,7 +6,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: Jimmy Zhang
+title: ZHANG Jinshui
 role: ""
 avatar_filename: avatar.jpg
 bio: ""
