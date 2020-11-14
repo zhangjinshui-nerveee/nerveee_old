@@ -43,10 +43,14 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  For his excellent academic performance and devotion to the community.
-  
-  He got a ranking of "Excellence" on all major classes, such as Computational Method,  Modelling and Control of High-Frequency Power Electronics Circuits, Digital Control System Analysis and Design, Design of Power Electronic Equipment, Scientific Writing, Power Semiconductor Devices and Application Criteria.
-  
+  For his excellent academic performance and devotion to the community.    
+  After continous efforts, he got a ranking of "Excellence" on all major classes, including: 
+  * Computational Method
+  * Modelling and Control of High-Frequency Power Electronics Circuits
+  * Digital Control System Analysis and Design
+  * Design of Power Electronic Equipment
+  * Scientific Writing
+  * Power Semiconductor Devices and Application Criteria    
   Meanwhile, he participated in the Chorus competition of the university as a male alto. Clumsy, but good enough to win a Team First Prize. 
   """
   
