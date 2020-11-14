@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * Writing 6.5  
   * overall 7.5
   
-  Being a big fan of F.R.I.E.N.D.S finally paid off...
+  Being a big fan of F.R.I.E.N.D.S. finally paid off...
   """
 
 [[item]]
@@ -99,7 +99,7 @@ date_format = "Jan 2006"
   * Communication and Information Technologies
   * Theory of Motor
   
-  He is not a big fan of  examination-oriented education. He prefer to read books for no reason rather than struggle for the examination in the library.    
+  He is not a big fan of  examination-oriented education. He prefer to read books for no reason rather than struggle for tomorrow's exam in the library.    
   Though, he was indeed proud of the grades that he obtained.
   """
 
