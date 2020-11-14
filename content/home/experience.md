@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 efficiency and unity power factor
 
   **Related Publications**<br>
-  [1] Jinshui Zhang, et al. "Precise correction of current zero-crossing distortion of totem pole PFC converter", in 2020 11th International Conference on Power Electronics and ECCE Asia
+  [1] Jinshui Zhang, et al. "Precise correction of current zero-crossing distortion of totem pole PFC converter", in 2020 11th International Conference on Power Electronics and ECCE Asia  
   [2] Jinshui Zhang, et al. "Downsizing Design of Powdered Iron Core Inductors Based on Variable-Frequency Modulation Targeting at Harmonics Suppression", in the 21st IEEE Workshop on Control and Modeling for Power Electronics
   """
 
@@ -64,8 +64,9 @@ efficiency and unity power factor
   * Investigation of  the working principles, design process and production procedure of Uninterruptible Power Supply (UPS)
   * Training of International Corperation Culture
   * Mechanical vibration and noise standard test of the 20 kW UPS prototype
+  
   **Employer evaluation**<br>
-  "He showed enthusiasm, talent and caution during his internship. He was a quick learner. He put all his energy and effort into his work. He cared every detail of the product and never hesitated to ask co-workers or his mentor for help. Also, he was willing to take suggestions from others, and he could work overtime to ensure his work is fulfilled before due. His diligence, attitude and cooperation left all his co-workers and our company a very good impression. "
+  "He showed enthusiasm, talent and caution during his internship. He was a quick learner. He put all his energy and effort into his work. He cared every detail of the product and never hesitated to ask co-workers or his mentor for help. Also, he was willing to take suggestions from others, and he could work overtime to ensure his work is fulfilled before due. His diligence, attitude and cooperation left all his co-workers and our company a very good impression. " --Vertiv Co.
   """
   
  [[experience]]
@@ -79,6 +80,7 @@ efficiency and unity power factor
   **Duties**
   * Designed and built some popular equipment for exhibition based on Meissner effect of Superconductor,such as Superconductor Maglev Rail Car, Roller Coaster, etc.
   * Recruited 21 volunteers and organized lab visiting activities of the camp
+  
   **Video Reference**
   * [Superconductor Maglev Rail Car, Roller Coaster](https://www.bilibili.com/video/BV1b5411V7fC)
   """
