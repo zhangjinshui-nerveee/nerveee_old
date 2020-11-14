@@ -23,15 +23,14 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Xi’an, China"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2021-07-01"
   description = """  
   Duties
   * Investigation of MOSFET’s working principles, testing technology and applications in power converters
   * Development of a a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak
 efficiency and unity power factor
 
-  Related Publications
-  
+  Related Publications<br>
   [1] Jinshui Zhang, et al. "Precise correction of current zero-crossing distortion of totem pole PFC converter", in 2020 11th International Conference on Power Electronics and ECCE Asia
   
   [2] Jinshui Zhang, et al. "Downsizing Design of Powdered Iron Core Inductors Based on Variable-Frequency Modulation Targeting at Harmonics Suppression", in the 21st IEEE Workshop on Control and Modeling for Power Electronics
