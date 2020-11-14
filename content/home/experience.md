@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   * Investigation of MOSFET’s working principles, testing technology and applications in power converters
   * Development of a a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak
 efficiency and unity power factor
-  <br>
+
   **Related Publications**<br>
   [1] Jinshui Zhang, et al. "Precise correction of current zero-crossing distortion of totem pole PFC converter", in 2020 11th International Conference on Power Electronics and ECCE Asia<br>  
   [2] Jinshui Zhang, et al. "Downsizing Design of Powdered Iron Core Inductors Based on Variable-Frequency Modulation Targeting at Harmonics Suppression", in the 21st IEEE Workshop on Control and Modeling for Power Electronics
@@ -43,13 +43,12 @@ efficiency and unity power factor
   date_start = "2019-09-01"
   date_end = "2020-01-31"
   description = """  
-  Duties
+  **Duties**
   * Investigation of MOSFET’s working principles, testing technology and applications in power converters
   * Development of a a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak
 efficiency and unity power factor
 
-  Related Publications
-  
+  **Related Publications**<br>  
   [1] Yan Zhang, Jinshui Zhang, et al. "A Novel Control Scheme Eliminating Current Zero-Crossing Distortion Based on Online Compensation", Chinese Patent
   """
 
@@ -61,6 +60,7 @@ efficiency and unity power factor
   date_start = "2018-08-01"
   date_end = "2018-09-01"
   description = """
+  **Duties**
   * Learned the working principles, debugging process and production procedure of Uninterruptible Power Supply (UPS), as well as corporate culture
   * Conducted mechanical vibration and noise standard test of the 20 kW UPS prototype"""
   
