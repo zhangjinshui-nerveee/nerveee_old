@@ -26,9 +26,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = """  
   **Duties**
-  * Investigation of MOSFET’s working principles, testing technology and applications in power converters
-  * Development of a a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak
-efficiency and unity power factor
+  * Teaching Assistance on the lectures of Fundamental Power Electronics and Academic English
+  * Research on the cause and solution of current zero-crossing distortion of the Totem-Pole PFC rectifier
+  * Research on the non-linear characteristics of powdered iron core inductors. Specifically, he applied amplitude modulation property to analyze how their saturation feature influences the current harmonics distribution, and accordingly he proposed an aoptimal variable switching frequency scheme to restrain this effect and thus to reduce the margin for magnetic saturation in the design. Therefore, the volume of the inductors can be shrunk and the power density is improved.
+  * Research on the optimization of resonant tank parameters of LLC converter. 
 
   **Related Publications**<br>
   [1] Jinshui Zhang, et al. "Precise correction of current zero-crossing distortion of totem pole PFC converter", in 2020 11th International Conference on Power Electronics and ECCE Asia  
