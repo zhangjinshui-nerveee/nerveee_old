@@ -38,4 +38,4 @@ He chose to pursue a Master degree in Xi'an Jiaotong University from the year 20
 
 Meanwhile, as a research assistant of IEEE Fellow Prof. Liu Jinjun, he has hitherto conducted a series of studies on high-frequency and high-power-density power converters at the Power Electronics and Renewable Energy Center. Results of his work so far include but are not limited to the development of Single-Phase Totem-Pole PFC rectifier, the investigation on the non-linear characteristics of Powdered Iron Core inductors, the optimization of resonant tank parameters for LLC converter. 
 
-In the future, he want to continue his journey in Electrical and Electronic Engineering. Specifically, he has high faith in the application of Wide-Band-Gap devices in the future. Meanwhile, many cool technologies like Wireless Power Transfer are also very attractive to me.
+In the future, he want to continue his journey in Electrical and Electronic Engineering. Specifically, he has high faith in the application of Wide-Band-Gap devices in the future. Meanwhile, many cool technologies like Wireless Power Transfer are also very attractive to him.
