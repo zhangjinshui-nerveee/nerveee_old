@@ -50,7 +50,8 @@ date_format = "Jan 2006"
   * Digital Control System Analysis and Design
   * Design of Power Electronic Equipment
   * Scientific Writing
-  * Power Semiconductor Devices and Application Criteria    
+  * Power Semiconductor Devices and Application Criteria
+  
   Meanwhile, he participated in the Chorus competition of the university as a male alto. Clumsy, but good enough to win a Team First Prize. 
   """
   
@@ -62,8 +63,7 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  He participated in the Mathematic Contest in Modelling 2017 as the leader. To optimize the development of Kariba Dam, they collected geographic information of the Dam and river, and built a model to realise its optimal resource allocation using zero-one integer programming algorithm.
-  
+  He participated in the Mathematic Contest in Modelling 2017 as the leader. To optimize the development of Kariba Dam, they collected geographic information of the Dam and river, and built a model to realise its optimal resource allocation using zero-one integer programming algorithm.    
   The applied algorithm is not very complicated, but the sound logic of solving problem finally won them an honour of "Meritorious Winner". 
   """
   
@@ -75,8 +75,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = ""
   description = """
-  For his excellent academic performance and devotion to the community.
-  
+  For his excellent academic performance and devotion to the community.    
   He gave up the National Scholarship to this scholarship, only because it awards more money of ￥2000. Good Call. 
   """
   
@@ -88,8 +87,7 @@ date_format = "Jan 2006"
   date_start = "2014-09-01"
   date_end = "2018-09-01"
   description = """
-  For his excellent academic performance and devotion to the community.
-  
+  For his excellent academic performance and devotion to the community.    
   Courses with a final grade higer than 99 points are listed:
   * Advanced Mathematics
   * Linear Algebra and Application
@@ -99,10 +97,9 @@ date_format = "Jan 2006"
   * Production of ELectric Energy
   * Microcomputer Principles (Coursework) 
   * Communication and Information Technologies
-  * Theory of Motor  
+  * Theory of Motor
   
-  He is not a big fan of  examination-oriented education. He prefer to read books for no reason rather than struggle for the examination in the library.
-  
+  He is not a big fan of  examination-oriented education. He prefer to read books for no reason rather than struggle for the examination in the library.    
   Though, he was indeed proud of the grades that he obtained.
   """
 
