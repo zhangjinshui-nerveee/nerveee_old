@@ -70,7 +70,11 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2016-09-01"
   date_end = ""
-  description = """For his excellent academic performance and devotion to the community."""
+  description = """
+  For his excellent academic performance and devotion to the community.
+  
+  He gave up the National Scholarship to this scholarship, only because it awards more money of ￥2000. Good Call. 
+  """
   
  [[item]]
   organization = "Tianjin University"
@@ -79,6 +83,23 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2014-09-01"
   date_end = "2018-09-01"
-  description = """For his excellent academic performance and devotion to the community."""
+  description = """
+  For his excellent academic performance and devotion to the community.
+  
+  Courses with a final grade higer than 99 points are listed:
+  * Advanced Mathematics
+  * Linear Algebra and Application
+  * Basis of Circuits
+  * Electromagnetic Field
+  * Complex Function
+  * Production of ELectric Energy
+  * Microcomputer Principles (Coursework) 
+  * Communication and Information Technologies
+  * Theory of Motor  
+  
+  He is not a big fan of  examination-oriented education. He prefer to read books for no reason rather than struggle for the examination in the library.
+  
+  Though, he was indeed proud of the grades that he obtained.
+  """
 
 +++
