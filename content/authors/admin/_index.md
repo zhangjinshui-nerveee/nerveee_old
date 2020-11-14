@@ -14,6 +14,7 @@ interests:
   - Power Electronics
   - High power density
   - Wide Band Gap devices
+  - Control Theory
 social:
   - icon: github
     icon_pack: fab
@@ -31,13 +32,10 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Mr. Jinshui Zhang received his BS degree in Electrical Engineering from Tianjin University in China. He maintained a high GPA of 3.82/4.0 and mastered knoweledge of power systems. Also, he was a big fan of mathematic modelling and optimization algorithms. He did his undergraduate thesis research applying a new topology of PFC rectifier realizing active power decoupling. 
+Mr. Zhang received his B.S. degree in Electrical Engineering from Tianjin University in China. He maintained a high GPA of 3.82/4.0 and mastered knowledge of power systems. Also, he was a big fan of mathematics modelling and optimization algorithms. For his graduation project, he did a research on a novel topology of PFC rectifier realizing active power decoupling, which was the beginning of his exploration in Power Electronics.
 
-He has hitherto started his postgraduate study in Power Electronics in Xi'an Jiaotong University. He performed an excellent mastery of lectures, maintaining a GPA of 3.8/4.0. Meanwhile, as a research assistant of Prof. Jinjun Liu, his research focuses on the design of high power density converters. He proposed a non-linear control strategy to eliminate the current distortion of Totem-Pole rectifier, and did a research on PIC inductor's saturation feature, etc. At present, he works on the design of resonant tank of LLC converter. 
+He chose to pursue a Master in Xi'an Jiaotong University from the year 2018. He has acquired valuable knowledge and skills related to control and design of power electronic systems.
 
+Meanwhile, as a research assistant of IEEE Fellow Prof. Liu Jinjun, he has hitherto conducted a series of studies on high-frequency and high-power-density power converters in the Power Electronics and Renewable Energy Center. His work so far included but not limited to the development of Totem-Pole PFC rectifier, the investigation on the saturation of Powdered Iron Core inductors, the optimization of resonant parameters of LLC resonant converter. 
 
-
-
-
-
-
+He has high faith in the application of Wide-Band-Gap devices in the future. Meanwhile, cool technologies like Wireless Power Transfer also attract him very much.
