@@ -48,7 +48,7 @@ efficiency and unity power factor
   * Development of a a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak
 efficiency and unity power factor
 
-  **Related Publications**<br>  
+  **Related Publications**  
   [1] Yan Zhang, Jinshui Zhang, et al. "A Novel Control Scheme Eliminating Current Zero-Crossing Distortion Based on Online Compensation", Chinese Patent
   """
 
