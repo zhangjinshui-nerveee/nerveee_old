@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "microchip"
   icon_pack = "fas"
-  name = "PCB layout"
+  name = "PCB"
   description = ""
 
 # Uncomment to use emoji icons.
