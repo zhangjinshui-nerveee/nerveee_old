@@ -83,7 +83,7 @@ efficiency and unity power factor
   * Recruited 21 volunteers and organized lab visiting activities of the camp
   
   **Video Reference**
-  * [Superconductor Maglev Rail Car, Roller Coaster](https://www.bilibili.com/video/BV1b5411V7fC)
+  * [Superconductor Maglev Rail Car](https://www.bilibili.com/video/BV1b5411V7fC)
   """
 
 +++
