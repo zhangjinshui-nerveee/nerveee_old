@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   **Duties**
   * Teaching Assistance on the lectures of Fundamental Power Electronics and Academic English
   * Research on the cause and solution of current zero-crossing distortion of the Totem-Pole PFC rectifier
-  * Research on the non-linear characteristics of powdered iron core inductors. Specifically, he applied amplitude modulation property to analyze how their saturation feature influences the current harmonics distribution, and accordingly he proposed an aoptimal variable switching frequency scheme to restrain this effect and thus to reduce the margin for magnetic saturation in the design. Therefore, the volume of the inductors can be shrunk and the power density is improved.
+  * Research on the non-linear characteristics of powdered iron core inductors. Specifically, he applied the Amplitude Modulation Property to analyze how their saturation feature influences the current harmonics, accordingly, he proposed an aoptimal variable switching frequency scheme to restrain this effect and thus to reduce the margin for magnetic saturation in the inductor design. Ultimately, the volume of the inductors can be shrunk and the power density improved.
   * Research on the optimization of resonant tank parameters of LLC converter. 
 
   **Related Publications**<br>
@@ -39,15 +39,14 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Application Engineer Intern"
   company = "Lonten Semiconductor Co."
-  company_url = ""
+  company_url = "https://longteng.solarbe.com/"
   location = "Xi’an, China"
   date_start = "2019-09-01"
   date_end = "2020-01-31"
   description = """  
   **Duties**
   * Investigation of MOSFET’s working principles, testing technology and applications in power converters
-  * Development of a a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak
-efficiency and unity power factor
+  * Development of a 3kW single-phase Totem-Pole PFC rectifier based on SiC MOSFETs, which can achieve 98.1% peak efficiency and unity power factor
 
   **Related Publications**  
   [1] Yan Zhang, Jinshui Zhang, et al. "A Novel Control Scheme Eliminating Current Zero-Crossing Distortion Based on Online Compensation", Chinese Patent
@@ -56,7 +55,7 @@ efficiency and unity power factor
 [[experience]]
   title = "Assistant Engineer"
   company = "AC Power Department, Vertiv Co."
-  company_url = ""
+  company_url = "https://www.vertiv.cn/zh-CN/"
   location = "Xi’an, China"
   date_start = "2018-08-01"
   date_end = "2018-09-01"
