@@ -12,9 +12,10 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Power Electronics
-  - High power density
-  - Wide Band Gap devices
+  - Wide-Bandgap Devices
   - Control Theory
+  - Compact Converters
+  - Artificial Intellignece
 social:
   - icon: github
     icon_pack: fab
