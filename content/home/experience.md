@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Power Electronics and Renewable Energy Center, Xi'an Jiaotong University"
-  company_url = ""
+  company_url = "http://www.perec.xjtu.edu.cn/"
   location = "Xi’an, China"
   date_start = "2018-09-01"
   date_end = ""
