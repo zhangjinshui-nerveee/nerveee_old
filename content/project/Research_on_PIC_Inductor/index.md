@@ -43,8 +43,13 @@ To avoid the saturation of inductors, we just need to leave a sufficient margin 
 The saturation plays a role in the whole period. 
 <img src = "Derivation_of_LIcharacteristic.png">
 To analyze the influence on current harmonics, we adopted the Amplitude Modulation Property of signals, stated as 
-![](http://latex.codecogs.com/gif.latex?\\sigma=\sqrt{\frac{1}{n}{\sum_{k=1}^n(x_i-\bar{x})^2}})
-
+<img src = "equ_amplitude_modulation_property.png" width = "30%">
+Consequently, we decomposed the current ripple into three different signals.
+| symbol | Definition |
+| --- | --- |
+| I_o(t) |  Fundamental triangle wave at switching frequency | 
+| F_1 | Steady-state fluctuation with grid phase and duty cycle |
+| F_2 | Effect of inductance drop due to magnetic saturation on the ripple peak-to-peak value |
 # Saturation Influencing Harmonics
 
 ## Methodology
