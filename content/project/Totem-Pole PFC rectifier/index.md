@@ -37,6 +37,10 @@ slides: example
 # Challenges
    When working in Continuous Conduction Mode (CCM), the Totem-Pole rectifier suffers the current distortion at the zero-crossing area. 
    Traditional dual-loop control tries to make a tradeoff between the grid-frequency reference tracking effect and disturbance suppression. In this way, we might be able to reduce the zero-crossing distortion but likely to introduce high-frequency harmonics. 
+## Waveforms Description
+  ![Distorted Current](Original.png)<br>
+  
+  
   
 # Methodology
 
