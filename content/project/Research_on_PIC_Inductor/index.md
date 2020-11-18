@@ -58,6 +58,9 @@ After this operation, we can predict the harmonics distribution.
 <img src = "Harmonics_Spectrum.png">
 The Totem-Pole pfc rectifier provided a platform to verify this analysis. The comparison below show that the prediction of current harmonics is accurate. 
 <img src = "Comparison_of_HarmonicsSpectrumBetweenExperimentAndTheory.png" width = "60%">
+Certainly, the research should lead to somewhere we can make benefit from it. Therefore, we proposed a variable switching frequency scheme to eliminate the harmonics growth due to the magnetic saturation. 
 # Variable Switching Frequency Scheme
-
+To show how effective this scheme is, we made three different inductors with cores of the same material but different quantities. 
+<img src = "Photo_of_ThreeInductors.png" width = "77%">
+With the proposed variable switching frequency, we can lower the harmonics of the smallest inductor to that of the biggest one. 
 # Summary
