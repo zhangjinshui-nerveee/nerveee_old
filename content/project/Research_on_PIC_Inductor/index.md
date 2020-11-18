@@ -35,6 +35,8 @@ slides: example
 As the electrical vehicle (EV) being increasingly popular, onboard chargers (OBC) have aroused great research and commercial interest worldwide. The state-of-the-art OBCs usually use Wide-Bandgap devices -- mainly GaN HEMTs and SiC MOSFETs -- because of their low loss and high switching frequency. 
 This significantly shrinks the space occupied by heat sink. Meanwhile, the passive components account for the predominant volume of the converter.
 
+# Saturation Influencing Harmonics
+
 Different from traditionally popular ferrite cores, powdered iron cores (PIC) have a special saturation process. 
 <img src = "Comparison_between_PICandFC.png" width = "50%">
 Saturating earlier but more gentle, the PIC inductance starts to drop even when the current is small while still act functional when it's large. On the contrast, ferrite inductance stays almost constant for a certain range of current, but it suffers a sudden change at the boundary and thus cases unbearable current ripple. 
@@ -45,16 +47,15 @@ The saturation plays a role in the whole period.
 To analyze the influence on current harmonics, we adopted the Amplitude Modulation Property of signals, stated as 
 <img src = "equ_amplitude_modulation_property.png" width = "30%">
 Consequently, we decomposed the current ripple into three different signals.
+
 | symbol | Definition |
 | --- | --- |
 | I_o(t) |  Fundamental triangle wave at switching frequency | 
 | F_1 | Steady-state fluctuation with grid phase and duty cycle |
 | F_2 | Effect of inductance drop due to magnetic saturation on the ripple peak-to-peak value |
-# Saturation Influencing Harmonics
 
-## Methodology
-
-## Verification
+After this operation, we can predict the harmonics distribution. 
+<img src = "Harmonics_Spectrum.png">
 
 # Variable Switching Frequency Scheme
 
