@@ -50,6 +50,12 @@ The controller extract the current information in the zero-crossing vicinity. Ou
 ![Compensated Waveform](PreciseCorrection.png)<br>
 Finally, we saved the Totem-Pole rectifier from the zero-crossing distortion and endowed it with a unity power factor.
 
+## Application of Wide-Bandgap Devices
+Wide-Bandgap devices -- SiC MOSFET and GaN HEMT are the most popular nowadays -- have shown great potential in all sorts of applicances. Though, related challenges have impeded our development more than once.
+
+The initial design is based on the SiC MOSFETs, C3m0075120k from Wolf Speed Co. Surprisingly, the process went really well. It took me three months to build this prototype. 
+<img src = "Converter.jpg" width = "70%">
+
 # Plan
 
 
