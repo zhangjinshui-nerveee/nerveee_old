@@ -55,6 +55,7 @@ Wide-Bandgap devices -- SiC MOSFET and GaN HEMT are the most popular nowadays --
 
 The initial design is based on the SiC MOSFETs, C3m0075120k from Wolf Speed Co. Surprisingly, the process went really well. It took me three months to build this prototype. 
 <img src = "Converter.jpg" width = "70%">
+This prototype integrated the controller *TMS320FS28377-D*, the sampling circuit, and all other necessary parts. The overall efficiency attained 98.1%, and the power factor reached 100%.  
 
 # Plan
 
