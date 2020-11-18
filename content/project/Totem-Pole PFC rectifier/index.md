@@ -43,6 +43,7 @@ Traditional dual-loop control tries to make a tradeoff between the grid-frequenc
   ![Bandwidth increaed current](WideBandwidth.png)<br>  
 The figure below illustrates cause for this phenomenon.<br>
 ![](CauseForCurrentDistortionIllustration.png)<br>
+<img src = "CauseForCurrentDistortionIllustration.png">
 Totem-Pole converter is actually alternating between two Boost circuits with different input polarity but the same output polarity. The control structure is the same while the initial states are different of those two modes. It takes the controller considerable periods to finish the switch during the zero-crossing. Thus, distortion happens.<br>
 Based on this analysis, we proposed a non-linear control scheme to solve this paradox, Precise Correction.<br>
 ![Proposed Control Scheme](TTPLDualLoopControlPro.png)<br> 
