@@ -1,9 +1,9 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Development of Totem-Pole PFC Rectifier
+summary: I built a single-phase Totem-Pole PFC rectifier.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Power Electronics
+date: "2020-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: follow
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Bilibili
+  url: https://space.bilibili.com/321991714
 url_code: ""
 url_pdf: ""
 url_slides: ""
