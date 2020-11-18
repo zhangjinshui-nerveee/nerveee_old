@@ -50,9 +50,9 @@ Consequently, we decomposed the current ripple into three different signals.
 
 | symbol | Definition |
 | --- | --- |
-| I_o(t) |  Fundamental triangle wave at switching frequency | 
-| F_1 | Steady-state fluctuation with grid phase and duty cycle |
-| F_2 | Effect of inductance drop due to magnetic saturation on the ripple peak-to-peak value |
+| I_o(t)    |  Fundamental triangle wave at switching frequency | 
+| F_1    | Steady-state fluctuation with grid phase and duty cycle |
+| F_2    | Effect of inductance drop due to magnetic saturation on the ripple peak-to-peak value |
 
 After this operation, we can predict the harmonics distribution. 
 <img src = "Harmonics_Spectrum.png">
