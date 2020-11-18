@@ -32,9 +32,9 @@ slides: example
 # Background
 > he Kariba Dam on the Zambezi River is one of the larger dams in Africa. Its construction was controversial, and a 2015 report by the Institute of Risk Management
 of South Africa included a warning that the dam is in dire need of maintenance. A number of options are available to the Zambezi River Authority (ZRA) that might address the situation. Three options in particular are of interest to ZRA:
-* (Option 1) Repairing the existing Kariba Dam,
-* (Option 2) Rebuilding the existing Kariba Dam, or
-* (Option 3) Removing the Kariba Dam and replacing it with a series of ten to twenty smaller dams along the Zambezi River.
+> * (Option 1) Repairing the existing Kariba Dam,
+> * (Option 2) Rebuilding the existing Kariba Dam, or
+> * (Option 3) Removing the Kariba Dam and replacing it with a series of ten to twenty smaller dams along the Zambezi River.
 
 
 
