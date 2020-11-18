@@ -29,6 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+![Topology of Totem-Pole Rectifier](https://github.com/jimmy-zhangjinshui/CV-academic/blob/master/content/project/Totem-Pole%20PFC%20rectifier/TTPL_topology.png)
+
 # Background
   Popular electrical appliances need rectifiers to transfer ac power to dc. The market has gradually eliminated traditional diode full-bridge recitifier due to its high current harmonics and low power factor. By contrast, the Totem-Pole bridgeless rectifier arouses wide concerns. The low device cost promises this converter a bright prospect.
 # Challenges
