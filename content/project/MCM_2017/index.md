@@ -50,7 +50,9 @@ Pick the best 100 sites of the dams.
 We took three factors into consideration to adjust the final number of the dams. 
 1. The status of the last dam
 2. The critical terrain
+3. The utilization of hydropower
 
 <img src = "Bad_Terrain.bmp">
+<img src = "Decision.jpg">
 
 
