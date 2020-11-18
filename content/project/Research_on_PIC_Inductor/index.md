@@ -41,7 +41,7 @@ Different from traditionally popular ferrite cores, powdered iron cores (PIC) ha
 <img src = "Comparison_between_PICandFC.png" width = "50%">
 Saturating earlier but more gentle, the PIC inductance starts to drop even when the current is small while still act functional when it's large. On the contrast, ferrite inductance stays almost constant for a certain range of current, but it suffers a sudden change at the boundary and thus cases unbearable current ripple. 
 To avoid the saturation of inductors, we just need to leave a sufficient margin for ferrite cores. However, it is inevitable for PIC inductor to suffer from saturation. Though, the degree varies with the current. 
-<img src = "Schematic_of_InductanceSaturation.png" width = "50%">
+<img src = "Schematic_of_InductanceSaturation.png" width = "70%">
 The saturation plays a role in the whole period. 
 <img src = "Derivation_of_LIcharacteristic.png">
 To analyze the influence on current harmonics, we adopted the Amplitude Modulation Property of signals, stated as 
