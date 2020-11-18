@@ -57,6 +57,7 @@ We took three factors into consideration to adjust the final number of the dams.
 
 # Final 
 The analysis led to the final scheme of twelve dams. Also, we gave a detailed operation strategy according to local seasonal rainfall; the main algorithm used here is the Zero-One programming.
-> During this contest, we really exhausted ourselves. I can't count how many cups of coffee I have drunk. Though, I managed to make two hours for myself to watch a movie, the Ocean's Twelve. And that --- my friend --- is why I named our final manuscript *Kariba's Twelve*.
-<img src = "oceans-twelve-513ded155d186">
+> During this contest, we really exhausted ourselves. I can't remember how many cups of coffee I drank exactly, but I did manage to make two hours for myself to watch a movie, the Ocean's Twelve. And that --- my friend --- is why I named our final manuscript *Kariba's Twelve*.
+
+<img src = "oceans-twelve-513ded155d186.png">
 
