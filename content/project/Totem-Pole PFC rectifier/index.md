@@ -41,16 +41,14 @@ When working in Continuous Conduction Mode (CCM), the Totem-Pole rectifier suffe
   ![Distorted Current](Original.png)<br>
 Traditional dual-loop control tries to make a tradeoff between the grid-frequency reference tracking effect and disturbance suppression. In this way, we might be able to reduce the zero-crossing distortion but likely to introduce high-frequency harmonics. 
   ![Bandwidth increaed current](WideBandwidth.png)<br>  
-  
-  
-# Methodology
+The figure below illustrates cause for this phenomenon.<br>
+![](CauseForCurrentDistortionIllustration.png)<br>
+We proposed a non-linear control scheme to solve this paradox, Precise Correction.<br>
+The controller extract the current information in the zero-crossing vicinity. Outside the original current control loop, we added an extra loop to compensate the distortion in the last period, and ultimately eliminated the distortion with introducing any high-frequency interference. <br>
 
 
-# Experiments
-  Results
-  
-# Small Tricks
-  Simulation
+
+# Plan
 
 
 What have we done.
