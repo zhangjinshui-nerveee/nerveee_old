@@ -57,7 +57,7 @@ The initial design is based on the SiC MOSFETs, *C3m0075120k* from *Wolf Speed C
 <img src = "Converter.jpg" width = "70%">
 This prototype integrated the controller *TMS320FS28377-D*, the sampling circuit, and all other necessary parts. The overall efficiency attained 98.1%; the power factor reached 100%.  
 
-The table below list all key details of this prototype. $f_s$
+The table below list all key details of this prototype. 
 
 | variables | value | 
 | -- | -- |
