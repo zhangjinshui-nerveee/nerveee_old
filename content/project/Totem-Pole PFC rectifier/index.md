@@ -42,7 +42,7 @@ When working in Continuous Conduction Mode (CCM), the Totem-Pole rectifier suffe
 Traditional dual-loop control tries to make a tradeoff between the grid-frequency reference tracking effect and disturbance suppression. In this way, we might be able to reduce the zero-crossing distortion but likely to introduce high-frequency harmonics. 
   ![Bandwidth increaed current](WideBandwidth.png)<br>  
 The figure below illustrates cause for this phenomenon.<br>
-![](CauseForCurrentDistortionIllustration.png =400x300)<br>
+![](CauseForCurrentDistortionIllustration.png)<br>
 Totem-Pole converter is actually alternating between two Boost circuits with different input polarity but the same output polarity. The control structure is the same while the initial states are different of those two modes. It takes the controller considerable periods to finish the switch during the zero-crossing. Thus, distortion happens.<br>
 Based on this analysis, we proposed a non-linear control scheme to solve this paradox, Precise Correction.<br>
 ![Proposed Control Scheme](TTPLDualLoopControlPro.png)<br> 
