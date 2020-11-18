@@ -51,4 +51,6 @@ We took three factors into consideration to adjust the final number of the dams.
 1. The status of the last dam
 2. The critical terrain
 
+<img src = "Bad_Terrain.bmp">
+
 
