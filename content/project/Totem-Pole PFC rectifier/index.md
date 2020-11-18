@@ -29,7 +29,18 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Why we did this?
+# Background
+  Why we did this?
+
+# Challenges
+  What problems we tried to solve
+  
+# Experiments
+  Results
+  
+# Small Tricks
+  Simulation
+
 
 What have we done.
 
