@@ -1,6 +1,6 @@
 ---
 title: Critical Design of PIC Inductor
-summary: We adopted the Amplitude Modulation Property of signals to assess the influence of inudctor saturation on current harmonics. The carrier of this research is the Totem-Pole PFC rectifier we built before.
+summary: Smaller, smaller, smaller.
 tags:
 - Power Electronics
 date: "2020-07-27T00:00:00Z"
@@ -29,6 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+Abstract: We adopted the Amplitude Modulation Property of signals to assess the influence of inudctor saturation on current harmonics. The carrier of this research is the Totem-Pole PFC rectifier we built before.
+
 Why we did this?
 
 What have we done.
