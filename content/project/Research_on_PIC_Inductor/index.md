@@ -1,5 +1,5 @@
 ---
-title: Research on How Powdered Iron Core Inductors' Saturation Influences Current Harmonics 
+title: Critical Design of PIC Inductor
 summary: We adopted the Amplitude Modulation Property of signals to assess the influence of inudctor saturation on current harmonics. The carrier of this research is the Totem-Pole PFC rectifier we built before.
 tags:
 - Power Electronics
