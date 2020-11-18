@@ -2,7 +2,7 @@
 title: Kariba's Twelve
 summary: How to develop the hydropower of the Zambezi River. 
 tags:
-- Others
+- Other
 date: "2020-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
