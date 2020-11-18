@@ -35,8 +35,9 @@ slides: example
 As the electrical vehicle (EV) being increasingly popular, onboard chargers (OBC) have aroused great research and commercial interest worldwide. The state-of-the-art OBCs usually use Wide-Bandgap devices -- mainly GaN HEMTs and SiC MOSFETs -- because of their low loss and high switching frequency. 
 This significantly shrinks the space occupied by heat sink. Meanwhile, the passive components account for the predominant volume of the converter.
 
-Different from traditionally popular ferrite cores, powdered iron cores have a special saturation process. 
+Different from traditionally popular ferrite cores, powdered iron cores (PIC) have a special saturation process. 
 <img src = "Comparison_between_PICandFC.png" width = "50%">
+Saturating earlier but more gentle, the PIC inductance starts to drop even when the current is small while still act functional when it's large. On the contrast, ferrite inductance stays almost constant for a certain range of current, but it suffers a sudden change at the boundary and thus cases unbearable current ripple. 
 
 # Saturation Influencing Harmonics
 
