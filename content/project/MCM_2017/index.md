@@ -41,13 +41,14 @@ of South Africa included a warning that the dam is in dire need of maintenance. 
 ## Collecting Geographic Information
 We used Google Map to obtain the waterfall and river topography. 
 <img src = "RIVER.jpg">
+Then we abstracted the altitude of the river and bank. 
+<img src = "Altitude.bmp" width = "70%">
+## Selecting Sites
+Pick the best 100 sites of the dams. 
+<img src = "Best100.jpg" width = "70%">
+## Deciding the final quantity of dams
+We took three factors into consideration to adjust the final number of the dams. 
+1. The status of the last dam
+2. The critical terrain
 
 
-
-Why we did this?
-
-What have we done.
-
-What results have been obtained.
-
-What we will do in the future.
