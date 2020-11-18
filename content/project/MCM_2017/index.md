@@ -36,6 +36,12 @@ of South Africa included a warning that the dam is in dire need of maintenance. 
 > * (Option 2) Rebuilding the existing Kariba Dam, or
 > * (Option 3) Removing the Kariba Dam and replacing it with a series of ten to twenty smaller dams along the Zambezi River.
 
+# Methodology
+
+## Collecting Geographic Information
+We used Google Map to obtain the waterfall and river topography. 
+<img src = "RIVER.jpg">
+
 
 
 Why we did this?
