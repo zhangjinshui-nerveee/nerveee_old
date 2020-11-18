@@ -1,6 +1,6 @@
 ---
 title: Development of Totem-Pole PFC Rectifier
-summary: I built a single-phase Totem-Pole PFC rectifier.
+summary: 98.1% peak efficiency & unity power factor.
 tags:
 - Power Electronics
 date: "2020-07-27T00:00:00Z"
