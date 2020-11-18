@@ -29,12 +29,16 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Abstract: We adopted the Amplitude Modulation Property of signals to assess the influence of inudctor saturation on current harmonics. The carrier of this research is the Totem-Pole PFC rectifier we built before.
+> Actually, this research happened during the development of Totem-Pole PFC converter. However, I found that this idea could be applied to any circuit, and it would be especially useful for those with powdered iron cores. Therefore, I decided it an independent project.
 
-Why we did this?
+# Background
 
-What have we done.
+# Saturation Influencing Harmonics
 
-What results have been obtained.
+## Methodology
 
-What we will do in the future.
+## Verification
+
+# Variable Switching Frequency Scheme
+
+# Summary
