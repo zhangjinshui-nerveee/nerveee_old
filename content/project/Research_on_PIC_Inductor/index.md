@@ -56,7 +56,8 @@ Consequently, we decomposed the current ripple into three different signals.
 
 After this operation, we can predict the harmonics distribution. 
 <img src = "Harmonics_Spectrum.png">
-
+The Totem-Pole pfc rectifier provided a platform to verify this analysis. The comparison below show that the prediction of current harmonics is accurate. 
+<img src = "Comparison_of_HarmonicsSpectrumBetweenExperimentAndTheory.png" width = "60%">
 # Variable Switching Frequency Scheme
 
 # Summary
