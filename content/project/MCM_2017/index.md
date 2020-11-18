@@ -1,6 +1,6 @@
 ---
 title: Kariba's Twelve
-summary: How to develop the hydropower of the Zambezi River. 
+summary: Make best use of hydropower from Zambezi River. 
 tags:
 - Other
 date: "2020-07-27T00:00:00Z"
