@@ -57,4 +57,14 @@ The initial design is based on the SiC MOSFETs, *C3m0075120k* from *Wolf Speed C
 <img src = "Converter.jpg" width = "70%">
 This prototype integrated the controller *TMS320FS28377-D*, the sampling circuit, and all other necessary parts. The overall efficiency attained 98.1%; the power factor reached 100%.  
 
+The table below list all key details of this prototype. $f_s$
+
+| variables | value | 
+| -- | -- |
+| Grid Voltage | 100Vrms | 
+| Grid Frequency | 50/60Hz |
+| Inductor | 1.7mH | 
+| Bus Capacitor | 470uF | 
+| Switching Frequency | 50kHz | 
+
 However, the power semiconductors used here possess a high voltage rating of 1kV, which is a waste when the bus voltage requires only 400V. By contrast, the GaN HEMTs are more suitable for these situations. Therefore, we are developing another totem-pole rectifier with GaN HEMT, *GS66502B* from *GanSystem Co*. The power rating is supposed to be 400W and the bus voltage is demanded as 400V. The further information will be presented on this website later. 
