@@ -42,7 +42,8 @@ To avoid the saturation of inductors, we just need to leave a sufficient margin 
 <img src = "Schematic_of_InductanceSaturation.png" width = "50%">
 The saturation plays a role in the whole period. 
 <img src = "Derivation_of_LIcharacteristic.png">
-
+To analyze the influence on current harmonics, we adopted the Amplitude Modulation Property of signals, stated as 
+![](http://latex.codecogs.com/gif.latex?\\sigma=\sqrt{\frac{1}{n}{\sum_{k=1}^n(x_i-\bar{x})^2}})
 
 # Saturation Influencing Harmonics
 
