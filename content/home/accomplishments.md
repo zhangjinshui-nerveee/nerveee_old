@@ -26,11 +26,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   On the day 12/SEP/2020, he took the IELTS exam for the first time in his life, and the results were quite impressive. 
-  * Listening 8.5
-  * Reading 8.5
-  * Speaking 6.5
-  * Writing 6.5  
-  * Overall 7.5
+  
+  | Item | Score |
+  | ---- | ----- |
+  | Listening | 8.5 |
+  | Reading | 8.5 |
+  | Speaking | 6.5 |
+  | Writing | 6.5 |  
+  | Overall | 7.5 |
   
   Being a big fan of F.R.I.E.N.D.S. finally paid off...
   """
