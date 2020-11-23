@@ -1,5 +1,5 @@
 ---
-title: Superconductor Tech. Camp
+title: 2 kW GaN based Boost Converter
 summary: Cooler than liquid nitrogen !
 tags:
 - Power Electronics
