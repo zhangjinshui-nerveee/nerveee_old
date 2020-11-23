@@ -47,3 +47,4 @@ We equiped a mother board for the packaged daughter board. And the ultimate solu
 <img src = "B_side.jpg ">
 <img src = "C_side.jpg ">
 <img src = "E_side.jpg ">
+The controller realises the functions including dual-loop feedback regulation, over-current protection, soft start, etc.  
