@@ -29,10 +29,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-> Actually, this research happened during the development of Totem-Pole PFC converter. However, I found that this idea could be applied to any circuit, and it would be especially useful for those with powdered iron cores. Therefore, I decided it an independent project.
-
+> Thanks for the guidance from Pro. Xin Ying and support from Chinese Society for Electrical Engineering. 
 # Background
-As the electrical vehicle (EV) being increasingly popular, onboard chargers (OBC) have aroused great research and commercial interest worldwide. The state-of-the-art OBCs usually use Wide-Bandgap devices -- mainly GaN HEMTs and SiC MOSFETs -- because of their low loss and high switching frequency. 
-This significantly shrinks the space occupied by heat sink. Meanwhile, the passive components account for the predominant volume of the converter.
-
-# Saturation Influencing Harmonics
+We organized an visiting activity for all students who registered for the camp. During this visit, we arranged several equipment based on superconducting technology. 
+# Equipment Display
+## Magnet suspension 
+<img src = "basic_Meissner_effect .jpg ">
