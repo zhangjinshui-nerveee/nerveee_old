@@ -2,7 +2,7 @@
 title: Superconductor Tech. Camp
 summary: Cooler than liquid nitrogen !
 tags:
-- Power Electronics
+- others
 date: "2020-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
