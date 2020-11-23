@@ -29,4 +29,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Under building...
+# Background
+To supply power for computer room, we were asked to design a 2kW boost converter prototype. The application of GaN HEMT was required. 
+Firstly, we developed a daughter board that integrated the power semiconductors and driving circuits. 
+# Daughter Board
+It consists of a power board, as below,
+<img src = "GaN_Power_Board.png ">  
+as well as a driving board, as bleow. 
+<img src = "GaN_Daughter_Board.png">
+
