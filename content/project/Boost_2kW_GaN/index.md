@@ -1,6 +1,6 @@
 ---
-title: 2 kW GaN based Boost Converter
-summary: Cooler than liquid nitrogen !
+title: 2kW Full-GaN Boost Converter
+summary: Generic Compact Daughter Board.
 tags:
 - Power Electronics
 date: "2020-07-27T00:00:00Z"
