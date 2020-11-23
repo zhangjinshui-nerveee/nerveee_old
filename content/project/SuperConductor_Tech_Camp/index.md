@@ -35,12 +35,16 @@ We organized an visiting activity for all students who registered for the camp. 
 # Equipment Display
 ## Magnet suspension 
 <img src = "basic_Meissner_effect .jpg ">
+
 ## Obervation of Meissner Effect through Measuring the Force
 <img src = "force_measurement.jpg ">
+
 ## Mobius strip
 <img src = "basic_Meissner_effect .jpg">
+
 ## Roller Coaster
 <img src = "Roller_coaster.jpg ">
+
 ## Maglev vehicle
 <img src = " superconductor_car.jpg ">
 
@@ -51,6 +55,7 @@ We really had great fun of those liquids. It's amazing taht you will be fine if 
 
 ## Having a discussion
 <img src = "Discussion.jpg">  
+
 ## Presenting an Introduction
 <img src = "introduction.jpg"> 
 
