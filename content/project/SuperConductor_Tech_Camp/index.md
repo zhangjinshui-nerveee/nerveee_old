@@ -40,7 +40,7 @@ We organized an visiting activity for all students who registered for the camp. 
 <img src = "force_measurement.jpg ">
 
 ## Mobius strip
-<img src = "basic_Meissner_effect .jpg">
+<img src = "Moumlbius_band.jpg">
 
 ## Roller Coaster
 <img src = "Roller_coaster.jpg ">
