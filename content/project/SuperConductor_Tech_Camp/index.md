@@ -48,6 +48,7 @@ We organized an visiting activity for all students who registered for the camp. 
 ## Liquid Nitrogen
 <img src = "liquid_nitrogen.jpg">
 We really had great fun of those liquids. It's amazing taht you will be fine if you pour it on your hand......
+
 ## Having a discussion
 <img src = "Discussion.jpg">
 ## Presenting an Introduction
