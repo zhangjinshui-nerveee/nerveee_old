@@ -32,9 +32,18 @@ slides: example
 # Background
 To supply power for computer room, we were asked to design a 2kW boost converter prototype. The application of GaN HEMT was required. 
 Firstly, we developed a daughter board that integrated the power semiconductors and driving circuits. 
+
 # Daughter Board
 It consists of a power board, as below,
 <img src = "GaN_Power_Board.png ">  
 as well as a driving board, as bleow. 
 <img src = "GaN_Daughter_Board.png">
+The photo of the daughter board is given as below. 
+<img src = "daughter_board.jpg">
 
+# Converter
+We equiped a mother board for the packaged daughter board. And the ultimate solution is shown in photos below.
+<img src = "Aside.jpg ">
+<img src = "B_side.jpg ">
+<img src = "C_side.jpg ">
+<img src = "E_side.jpg ">
