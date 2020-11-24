@@ -47,11 +47,15 @@ We developed a daughter board that integrated the power semiconductors and drivi
 
 
 # Daughter Board
-It consists of a power board, as below,
+The daughter board consists of two parts, the driving board, which transform the digital pulses into the driving signals for GaN HEMTs, and the power board, which is actually a half-bridge topology and receives the driving signals to commutes the HEMTs. 
+
+The figure below gives information of the **power board**.
 <img src = "GaN_Power_Board.png ">  
-as well as a driving board, as bleow. 
+
+The figure below gives information of the **driving board**.
 <img src = "GaN_Daughter_Board.png">
-The photo of the daughter board is given as below. 
+
+Ultimately, we plug the power board onto the driving board, the integrated daughter board forms, as follows.
 <img src = "daughter_board.jpg">
 
 # Converter
