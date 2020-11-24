@@ -30,8 +30,20 @@ url_video: ""
 slides: example
 ---
 # Background
-To supply power for computer room, we were asked to design a 2kW boost converter prototype. The application of GaN HEMT was required. 
-Firstly, we developed a daughter board that integrated the power semiconductors and driving circuits. 
+To power the computer room, we were asked to design a 2kW boost converter prototype. The table below specifies the parameters.
+
+| Parameter | Value |
+| Input Voltage | 200~300V |
+| Output Voltage | 400V |
+| Output Ripple | 2% | 
+| Power Rating | 2kW |
+| Other requirement | Full-GaN |
+
+At this time, [our company](https://shop34012880.taobao.com/?spm=a230r.7195193.1997079397.2.36a35baao0FdHc) (I am the manager, nominated by my senior) was planning for a novel plug-in GaN daughter board. So, "Let's do it."
+
+We developed a daughter board that integrated the power semiconductors and driving circuits. And this project was the first try. 
+
+
 
 # Daughter Board
 It consists of a power board, as below,
