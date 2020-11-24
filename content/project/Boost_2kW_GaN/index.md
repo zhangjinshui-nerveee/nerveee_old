@@ -80,4 +80,4 @@ The waveforms are given as below. (purple-current; green-voltage)
 
 # Other
 I am proud of myself, not because of the converter, but because of the box I designed, so amateurly professional.
-
+<img src = "case.png">
