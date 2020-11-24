@@ -56,14 +56,14 @@ The figure below gives information of the **driving board**.
 <img src = "GaN_Daughter_Board.png">
 
 Ultimately, we plug the power board onto the driving board, the integrated daughter board forms, as follows.
-<img src = "daughter_board.jpg">
+<img src = "P00628-103139.jpg ">
+<img src = "P00628-103149.jpg ">
 
 # Converter
 We equiped a mother board for the packaged daughter board. And the ultimate solution is shown in photos below.
 <img src = "Aside.jpg ">
 <img src = "B_side.jpg ">
 <img src = "C_side.jpg ">
-<img src = "E_side.jpg ">
 The controller realises the functions including dual-loop feedback regulation, over-current protection, soft start, etc.  
 
 # Testing Results
