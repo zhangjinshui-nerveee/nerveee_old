@@ -29,32 +29,36 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-> Thanks for the guidance from Pro. Xin Ying and support from Chinese Society for Electrical Engineering. 
+> Thanks for the guidance of Pro. Xin Ying and financial support of *Chinese Society for Electrical Engineering*. 
 # Background
-We organized an visiting activity for all students who registered for the camp. During this visit, we arranged several equipment based on superconducting technology. 
+We organized a visiting activity for all students who registered for the camp. They visited the exhibition hall, where the superconductor equipments were displayed. As a leader, I was in charge of organizing this activity and giving them the first lecture that elaborated the Meissner Effect. 
 # Equipment Display
 ## Magnet suspension 
 <img src = "basic_Meissner_effect .jpg ">
 
-## Obervation of Meissner Effect through Measuring the Force
+## Oberving Meissner Effect through Measuring Force
 <img src = "force_measurement.jpg ">
 
-## Mobius strip
+## Mobius strip 
 <img src = "Moumlbius_band.jpg">
+No beginning, no ending. 
 
 ## Roller Coaster
 <img src = "Roller_coaster.jpg ">
+Reach the same height as beginning, almost.  
 
 ## Maglev vehicle
 <img src = " superconductor_car.jpg ">
+Really expensive. We picked several lucky students to have a try, it fell out and broke. Luckily, we had a back-up car.
 
-# Easter egg
+# Live pictures
 ## Liquid Nitrogen
 <img src = "liquid_nitrogen.jpg">
-We really had great fun of those liquids. It's amazing taht you will be fine if you pour it on your hand......
+We really had great fun of this amazing liquid. It's a 'wow' moment when you pour it on your hand, and find no damage at all. 
 
 ## Having a discussion
 <img src = "Discussion.jpg">  
+We are actually discussing what we would eat for lunch...
 
 ## Presenting an Introduction
 <img src = "introduction.jpg"> 
