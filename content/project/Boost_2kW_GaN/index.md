@@ -34,7 +34,7 @@ To power the computer room, we were asked to design a 2kW boost converter protot
 
 | Parameter | Value |
 | -- | -- |
-| Input Voltage | 200~300V |
+| Input Voltage | 200~350V |
 | Output Voltage | 400V |
 | Output Ripple | 2% | 
 | Power Rating | 2kW |
@@ -65,3 +65,19 @@ We equiped a mother board for the packaged daughter board. And the ultimate solu
 <img src = "C_side.jpg ">
 <img src = "E_side.jpg ">
 The controller realises the functions including dual-loop feedback regulation, over-current protection, soft start, etc.  
+
+# Testing Results
+The test is performed with **YOKOGAWA·WT1804E precision power analyzer**.
+## Efficiency
+<img src = "efficiency.png">
+The efficiency stays over 98.48% in full voltage range. 
+## Adjustment due to Load
+<img src = "load adjust.png">
+Varying with the load, the output voltage changes within 396~401V. 
+## Waveforms
+<img src = "waveform.png">
+The waveforms are given as below. (purple-current; green-voltage)
+
+# Other
+I am proud of myself, not because of the converter, but because of the box I designed, so amateurly professional.
+
