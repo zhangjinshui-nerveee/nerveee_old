@@ -33,6 +33,7 @@ slides: example
 To power the computer room, we were asked to design a 2kW boost converter prototype. The table below specifies the parameters.
 
 | Parameter | Value |
+| -- | -- |
 | Input Voltage | 200~300V |
 | Output Voltage | 400V |
 | Output Ripple | 2% | 
