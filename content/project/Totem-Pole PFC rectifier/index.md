@@ -61,7 +61,7 @@ The table below list all key details of this prototype.
 
 | ITEMS | VALUE | 
 | -- | -- |
-| Grid Voltage | 100Vrms | 
+| Grid Voltage | 220Vrms | 
 | Grid Frequency | 50/60Hz |
 | Inductor | 1.7mH | 
 | Bus Capacitor | 470uF | 
@@ -69,6 +69,6 @@ The table below list all key details of this prototype.
 | Switches | C3m0075120k, Cree Co. |
 | Efficiency | 98.1% |
 | PF | 100% |
-| Power Density | 3W/in3 |
+| Power Density | 3.22W/cm3 |
 
 However, the power semiconductors used here possess a high voltage rating of 1kV, which is a waste when the bus voltage requires only 400V. By contrast, the GaN HEMTs are more suitable for these situations. Therefore, we are developing another totem-pole rectifier with GaN HEMT, *GS66502B* from *GanSystem Co*. The power rating is supposed to be 400W and the bus voltage is demanded as 400V. The further information will be presented on this website later. 
