@@ -9,7 +9,7 @@ date: "2020-07-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Mathematical Contest in Modelling 2017
   focal_point: Smart
 
 links:
