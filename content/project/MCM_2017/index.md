@@ -9,7 +9,7 @@ date: "2020-07-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Mathematical Contest in Modelling 2017
+  caption: by Google Earth
   focal_point: Smart
 
 links:
