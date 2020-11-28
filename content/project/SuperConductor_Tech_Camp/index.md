@@ -1,5 +1,5 @@
 ---
-title: Superconductor Tech. Camp
+title: Tech. Camp of Super-conducting
 summary: Cooler than liquid nitrogen !
 tags:
 - Other
@@ -58,7 +58,7 @@ We really had great fun of this amazing liquid. It's a 'wow' moment when you pou
 
 ## Having a discussion
 <img src = "Discussion.jpg">  
-We are actually discussing what we would eat for lunch...
+We were actually discussing what we would eat for lunch...
 
 ## Presenting an Introduction
 <img src = "introduction.jpg"> 
