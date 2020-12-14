@@ -30,3 +30,6 @@ url_video: ""
 slides: example
 ---
 Under building...
+# Photos of Prototype
+<img src = "lateral_view.jpg" width = "70%">
+<img src = "topview.jpg" width = "70%">
