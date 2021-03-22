@@ -9,7 +9,7 @@ image:
 ---
 > "Reviewers ridiculed it and consumers spurned it. Nevertheless, as is often with Microsoft products, persistence eventually made Windows better and dominant."
 
-Discussion 
+Discussion about the PCB design never stopped. 
 
 
 ## References
