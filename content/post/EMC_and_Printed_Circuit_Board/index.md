@@ -1,6 +1,6 @@
 ---
-title: Writing technical content in Academic
-date: 2019-07-12
+title: Printed Circuit Board - Beginner
+date: 2021-03-22
 math: true
 diagram: true
 image:
