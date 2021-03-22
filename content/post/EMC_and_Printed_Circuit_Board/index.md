@@ -9,7 +9,9 @@ image:
 ---
 > "Reviewers ridiculed it and consumers spurned it. Nevertheless, as is often with Microsoft products, persistence eventually made Windows better and dominant."
 
-Discussion about the PCB design never stopped. 
+Discussion about the PCB design and EMC (Electro-Magnetic Compatibility) never stopped. The thing we need to do seems quite simple, find the three elements of the interference: Source, Propagation path, and Load. And then break them down.
+
+
 
 
 ## References
