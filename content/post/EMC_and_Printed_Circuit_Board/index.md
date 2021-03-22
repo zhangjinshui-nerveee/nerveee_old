@@ -18,8 +18,19 @@ Meanwhile, since the blogger majored in Power Eletronics, this blog might have a
 ## Overview
 In this section, we would give an overview of respectively EMC, PCB and the bond between. 
 
-## Special Topics
+### Electromagnetic Compatibility (EMC)
+- Definition
 
+
+### Printed Circuit Board
+- Structure of the board
+- Development softwares available
+- Process of production
+
+
+## Special Topics
+- Cross talk
+- Impedance and signal reflection
 
 ## References
 [1] Montrose, M.I., 2004. EMC and the printed circuit board: design, theory, and layout made simple (Vol. 6). John Wiley & Sons.
