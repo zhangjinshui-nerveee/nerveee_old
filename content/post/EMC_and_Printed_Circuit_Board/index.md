@@ -25,8 +25,8 @@ In this section, we would give an overview of respectively EMC, PCB and the bond
 
 ### Printed Circuit Board
 - Structure of the board
-- Development softwares available
-- Process of production
+- available development softwares
+- process of production
 
 ### EMC inside PCB
 
