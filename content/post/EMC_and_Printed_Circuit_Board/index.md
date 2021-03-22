@@ -19,7 +19,8 @@ Meanwhile, since the blogger majored in Power Eletronics, this blog might have a
 In this section, we would give an overview of respectively EMC, PCB and the bond between. 
 
 ### Electromagnetic Compatibility (EMC)
-- Definition
+- What is Interference?
+- 
 
 
 ### Printed Circuit Board
@@ -27,6 +28,7 @@ In this section, we would give an overview of respectively EMC, PCB and the bond
 - Development softwares available
 - Process of production
 
+### EMC inside PCB
 
 ## Special Topics
 - Cross talk
