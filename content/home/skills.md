@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Coding"
+  name = "Programming"
   description = ""  
   
 [[feature]]
