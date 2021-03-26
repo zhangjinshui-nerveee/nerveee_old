@@ -57,8 +57,7 @@ In this section, we would give an overview of respectively EMC, PCB and the bond
 
 ### EMC inside PCB
 > EMI is often the result of **exceptions** to the normal rules of passive component behavior. "When is a capacitor not a capacitor?"
-
-![](/img\2021-03-26-10-11-58.png)
+<img src = "/img\2021-03-26-10-11-58.png">  
 
 ## Special Topics
 - Cross talk
