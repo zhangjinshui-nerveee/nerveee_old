@@ -64,5 +64,5 @@ In this section, we would give an overview of respectively EMC, PCB and the bond
 - Impedance and signal reflection
 
 ## References
-[1] Montrose, M.I., 2004. EMC and the printed circuit board: design, theory, and layout made simple (Vol. 6). John Wiley & Sons.
+[1] Montrose, M.I., 2004. EMC and the printed circuit board: design, theory, and layout made simple (Vol. 6). John Wiley & Sons.<br>
 [2] H. W. Ott, ‘Electromagnetic Compatibility Engineering’, p. 871.
