@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Power Electronics"
     tag = "Power Electronics"
+
+  [[content.filter_button]]
+    name = "Mission Impossible"
+    tag = "Mission Impossible"
   
   [[content.filter_button]]
     name = "Other"
