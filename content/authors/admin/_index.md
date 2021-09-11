@@ -24,7 +24,7 @@ education:
   courses:
     - course: PhD Candidate in Electrical and Computer Engineering
       institution: Brain Stimulation Engineering Lab, Duke University
-      year: 2021
+      year: 2026
   courses:
     - course: M.S. in Power Electronics
       institution: Power Electronics and Renewable Energy Center, Xi’an Jiaotong University
