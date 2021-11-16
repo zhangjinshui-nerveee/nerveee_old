@@ -1,6 +1,6 @@
 ---
 title: Build a Modular Multilevel Converter Model
-summary: How to build a MMC prototype in Simulink? For amateurs.
+summary: 
 tags:
 - Mission Impossible
 - Power Electronics
