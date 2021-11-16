@@ -31,8 +31,9 @@ url_video: ""
 slides: example
 ---
 # Background
-Stay foolish, stay hungry.
+Develop MMC converter (simulation, hardware design) for medical use. 
 
+Get rid of simulink. 
 # Methodology
 
 
