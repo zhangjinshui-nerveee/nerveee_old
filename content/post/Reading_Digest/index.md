@@ -14,4 +14,4 @@ image:
 - Woz: "Well, I'll pay half if you will." For the $800,000 advertisement during Super Bowl.
 - 拷问出真实下面的虚伪，接着要拷问出虚伪下面的真实。 -- 陀思妥耶夫斯基
 - "Reviewers ridiculed it and consumers spurned it. Nevertheless, as is often with Microsoft products, persistence eventually made Windows better and dominant."
-- 
+- “话说出来之前，你是这句话的主人；说出来之后，你便是这句话的奴隶。”
