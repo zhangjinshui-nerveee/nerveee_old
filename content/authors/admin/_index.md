@@ -36,8 +36,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Jinshui received his B.S. degree in Electrical Engineering and Automation from Tianjin University in 2018. He gained friends there. 
+Jinshui received his B.S. degree in Electrical Engineering and Automation from Tianjin University in 2018. He gained friendship. 
 
-He got a Master degree in Xi'an Jiaotong University in 2021, major in power electronics. He gained ambition there. 
+He got a Master degree in Xi'an Jiaotong University in 2021, major in power electronics. He gained ambition. 
 
-Now, he has found something crazy enough for him to do --- BRAIN SCIENCE! We can use power electronics to build machines that can stimulate nervous system to discover, to cure, to dream. 
+Now, he has found something crazy enough for him to do --- BRAIN SCIENCE! We can use power electronics to build stimulation machines, to discover, to cure, to dream. 
