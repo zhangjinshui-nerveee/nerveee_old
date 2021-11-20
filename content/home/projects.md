@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Power Electronics"
-    tag = "Power Electronics"
+    name = "EE"
+    tag = "EE"
 
   [[content.filter_button]]
-    name = "Mission Impossible"
-    tag = "Mission Impossible"
+    name = "Nerve"
+    tag = "Nerve"
   
   [[content.filter_button]]
     name = "Other"
