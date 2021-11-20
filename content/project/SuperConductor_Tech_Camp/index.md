@@ -2,7 +2,7 @@
 title: Tech. Camp of Super-conducting
 summary: Cooler than liquid nitrogen !
 tags:
-- Other
+- EE
 date: "2020-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -13,10 +13,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Bilibili
-  url: https://space.bilibili.com/321991714
 url_code: ""
 url_pdf: ""
 url_slides: ""
