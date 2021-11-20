@@ -27,7 +27,6 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  For his excellent academic performance and devotion to the community.    
   """
   
 [[item]]
@@ -38,7 +37,6 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  To optimize the development of Kariba Dam, they collected geographic information of the Dam and the river, and built a model to realize its optimal resource allocation using zero-one integer programming algorithm.    
   """
   
  [[item]]
@@ -49,7 +47,6 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = ""
   description = """
-  For his excellent academic performance and devotion to the community.    
   """
   
  [[item]]
@@ -60,7 +57,6 @@ date_format = "Jan 2006"
   date_start = "2014-09-01"
   date_end = "2018-09-01"
   description = """
-  For his excellent academic performance and devotion to the community.    
   """
 
 +++
