@@ -2,7 +2,7 @@
 title: Critical Design of PIC Inductor
 summary: Smaller, smaller, smaller.
 tags:
-- Power Electronics
+- EE
 date: "2020-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
