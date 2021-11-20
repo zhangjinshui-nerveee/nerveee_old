@@ -13,10 +13,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Bilibili
-  url: https://space.bilibili.com/321991714
 url_code: ""
 url_pdf: ""
 url_slides: ""
