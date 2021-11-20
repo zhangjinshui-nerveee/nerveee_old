@@ -24,15 +24,16 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+    
+  [[content.filter_button]]
+    name = "Nerve"
+    tag = "Nerve"
   
   [[content.filter_button]]
     name = "EE"
     tag = "EE"
 
-  [[content.filter_button]]
-    name = "Nerve"
-    tag = "Nerve"
-  
+
   [[content.filter_button]]
     name = "Other"
     tag = "Other"
