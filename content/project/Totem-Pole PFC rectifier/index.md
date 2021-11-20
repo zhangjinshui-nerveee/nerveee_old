@@ -2,7 +2,7 @@
 title: Development of Totem-Pole PFC Rectifier
 summary: 98.1% peak efficiency & unity power factor.
 tags:
-- Power Electronics
+- EE
 date: "2020-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
