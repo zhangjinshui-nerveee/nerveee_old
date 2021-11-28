@@ -10,4 +10,7 @@ image:
 
 # Introduction
 > A learning note.
->
+
+
+# References
+[1] Cognitive Neuroscience
