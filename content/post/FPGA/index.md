@@ -8,7 +8,7 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-- Now we use LabVIEW as the starter. It sucks, you are gonna love it.
+> Now we use LabVIEW as the starter. It sucks, you are gonna love it.
 
 - "timing error" during compiling
 > "The FPGA compiler returns a timing error if the propagation delay between any two registers exceeds the FPGA clock rate." I solved this error by replacing for loop with exhaustive comparison. But, what is a register in LabVIEW? And propagation delay? See the link below.<br>
