@@ -15,3 +15,4 @@ image:
 - 拷问出真实下面的虚伪，接着要拷问出虚伪下面的真实。 -- 陀思妥耶夫斯基
 - "Reviewers ridiculed it and consumers spurned it. Nevertheless, as is often with Microsoft products, persistence eventually made Windows better and dominant."
 - “话说出来之前，你是这句话的主人；说出来之后，你便是这句话的奴隶。”
+- Sometimes you don't feel like doing anything. It's not because you are not good anymore. Instead, it's because the things you are doing are not good enough for you. You tend to get more and more picky (maybe it has something to do with Dopamine). So the things you shall be doing should be more and more beautiful, more different, sustainable maybe. Useful? Not so important. If not, make it useful. 
