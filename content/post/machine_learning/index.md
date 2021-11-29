@@ -12,4 +12,6 @@ image:
 > A learning note.
 ## Topic Modeling
 
-# References
+### References
+[1] [Latent Variables & Expectation Maximization Algorithm](https://towardsdatascience.com/latent-variables-expectation-maximization-algorithm-fb15c4e0f32c)
+
