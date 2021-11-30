@@ -15,7 +15,7 @@ vim ~/.bashrc
 '''
 2. use 'alias' 
 
-'''
+```
 alias slipbox='vim -p /home/jinshui/Documents/Github/SlipBox/PermanentNotes/*.md'
 alias slipbox-post='cd /home/jinshui/Documents/Github/SlipBox
                     git add --all
@@ -57,4 +57,5 @@ alias lazy-gitpull-all='cd /home/jinshui/Documents/Github/ECE_687D
                    cd /home/jinshui/Documents/Github/SlipBox
                    git pull'
 
-'''
+```
+
