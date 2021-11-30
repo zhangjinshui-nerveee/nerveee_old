@@ -15,23 +15,23 @@ vim ~/.bashrc
 '''
 2. use 'alias' 
 
-```
-alias slipbox='vim -p /home/jinshui/Documents/Github/SlipBox/PermanentNotes/*.md'
-alias slipbox-post='cd /home/jinshui/Documents/Github/SlipBox
+    ```
+    alias slipbox='vim -p /home/jinshui/Documents/Github/SlipBox/PermanentNotes/*.md'
+    alias slipbox-post='cd /home/jinshui/Documents/Github/SlipBox
                     git add --all
                     git commit -a -m "commit"
                     git push'
-alias todo='vim /home/jinshui/Documents/Github/SlipBox/Daily.md'
-alias blog-brain='vim /home/jinshui/Documents/Github/nerveee/content/post/brain_science/index.md'
-alias blog-literature='vim /home/jinshui/Documents/Github/nerveee/content/post/Reading_Digest/index.md'
-alias blog-machinelearning='vim /home/jinshui/Documents/Github/nerveee/content/post/machine_learning/index.md'
-alias blog-FPGA='vim /home/jinshui/Documents/Github/nerveee/content/post/FPGA/index.md'
-alias blog-post='cd /home/jinshui/Documents/Github/nerveee
+    alias todo='vim /home/jinshui/Documents/Github/SlipBox/Daily.md'
+    alias blog-brain='vim /home/jinshui/Documents/Github/nerveee/content/post/brain_science/index.md'
+    alias blog-literature='vim /home/jinshui/Documents/Github/nerveee/content/post/Reading_Digest/index.md'
+    alias blog-machinelearning='vim /home/jinshui/Documents/Github/nerveee/content/post/machine_learning/index.md'
+    alias blog-FPGA='vim /home/jinshui/Documents/Github/nerveee/content/post/FPGA/index.md'
+    alias blog-post='cd /home/jinshui/Documents/Github/nerveee
                   git add --all
                   git commit -a -m "commit"
                   git push'
 
-alias lazy-gitpush-all='cd /home/jinshui/Documents/Github/ECE_687D
+    alias lazy-gitpush-all='cd /home/jinshui/Documents/Github/ECE_687D
                    git add --all
                    git commit -a -m "commit"
                    git push
@@ -47,8 +47,8 @@ alias lazy-gitpush-all='cd /home/jinshui/Documents/Github/ECE_687D
                    git add --all
                    git commit -a -m "commit"
                    git push'
- 
-alias lazy-gitpull-all='cd /home/jinshui/Documents/Github/ECE_687D
+     
+    alias lazy-gitpull-all='cd /home/jinshui/Documents/Github/ECE_687D
                    git pull
                    cd /home/jinshui/Documents/Github/Programming_MMC_Simulation
                    git pull
@@ -57,5 +57,5 @@ alias lazy-gitpull-all='cd /home/jinshui/Documents/Github/ECE_687D
                    cd /home/jinshui/Documents/Github/SlipBox
                    git pull'
 
-```
-
+    ```
+And surely you can play more interesting and powerful things with .bashrc configuration. 
