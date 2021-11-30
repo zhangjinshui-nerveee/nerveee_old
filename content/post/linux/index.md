@@ -10,9 +10,9 @@ image:
 
 ## How to push all git repositories in one command. 
 1. edit .bashrc 
-'''
+```
 vim ~/.bashrc
-'''
+```
 2. use 'alias' 
 
     ```
@@ -58,4 +58,10 @@ vim ~/.bashrc
                    git pull'
 
     ```
+3. In terminal
+```
+lazy-gitpush-all % push all
+lazy-gitpull-all % pull all
+```
+
 And surely you can play more interesting and powerful things with .bashrc configuration. 
