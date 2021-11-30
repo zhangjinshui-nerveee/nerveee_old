@@ -19,6 +19,8 @@ image:
 > The primary role of the latent variables is to allow a complicated distribution over the observed variables to be represented in terms of a model constructed from simpler (typically exponential family) conditional distributions.<br>
 - If you think of an image (ex. human face) as the observed variable x then, the latent variable z could encode the features of the face (which are not seen during training), like it can encode whether the face is happy or sad, male or female etc.
 - Trouble: $log \sum$
+  - It's inevitable, Mr. Anderson. (when you have latent variable in you model.)
+- 
 
 
 ### Example on the Multinominal Model (Topic Modeling)
