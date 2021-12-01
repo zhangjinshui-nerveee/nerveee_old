@@ -8,7 +8,6 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-# Introduction
 > A learning note.
 ## Expectation-Maximization Algorithm
 - EM Step 
@@ -24,6 +23,13 @@ image:
 
 
 ### Example on the Multinominal Model (Topic Modeling)
+
+## Interpretable Machine Learning: some fun fact.
+> The opinions are from Ms Cynthia Rudin. 
+- You can generally find an interpretable ML model that is as accurate as any black box model. 
+- It has become clear that people don't know this. 
+- DON'T USE BLACK BOX MODEL FOR HIGH-STAKE APPLICATIONS.
+- There is no scientific evidence for a tradeoff between interpretability and accuracy.
 
 
 
