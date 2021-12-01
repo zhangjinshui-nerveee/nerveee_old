@@ -66,3 +66,64 @@ In this section, we would give an overview of respectively EMC, PCB and the bond
 ## References
 [1] Montrose, M.I., 2004. EMC and the printed circuit board: design, theory, and layout made simple (Vol. 6). John Wiley & Sons.<br>
 [2] H. W. Ott, ‘Electromagnetic Compatibility Engineering’, p. 871.
+
+# GaN HEMT Soft Switching and Hard Switching
+> When talking about ~MHz applications of GaN, we are always using soft-switching techniques. <br>
+
+> Is this true? Why is that? What happens if we want to use hard-switching in MHz occasion?
+
+We will start from the technical support of GaN Systems Inc.
+
+## Official Application Notes
+- Zero reverse recovery of GaN HEMT leads to lower switching loss and less EMI noise. (page 9 in GN001)
+- Smaller output capacitance results in lower switching loss and easier ZVS. 
+> They assume us adopting or wanting to adopt ZVS. 
+- 
+
+
+
+
+
+
+
+
+## References
+[1] [application notes of GaN Systems Inc.](https://gansystems.com/design-center/application-notes/)
+
+
+
+# GaN HEMT Driver Design Comparison
+## ACPL-P346-000E
+> 2.5-Amp Output Current Power, GaN and SiC MOSFET Gate Drive Optocoupler with Rail-to-Rail Output <br>
+
+> Rail-to-rail” implies that the signal swings all the way to supply voltage levels on both the positive and negative rails.<br>
+> In this case, it means the on-voltage is VCC and off-voltage is VEE.
+
+### Specifications
+- Propagation Delay Time to High Output Level Typ. 55 ns 
+- Propagation Delay Time to Low Output Level Typ. 55 ns 
+- Pulse width distortion Max. 50 ns 
+- Propagation Delay Difference between any two pairs -50 ~ 50 ns 
+> Should we set up a deadtime at least 50 ns to avoid this difference?  
+
+- Rise Time Typ. 8 ns (Max. 30 ns)
+- Fall Time Typ. 8 ns (Max. 30 ns)
+
+
+
+## SI8274
+ 
+### Specifications
+- propagation delay time 30 - 45 ns 
+- Pulse width distortion (SI8274 with low jitter) 14-19 ns 
+- Programmed dead time 20 ns
+- Rise time 10.5 ns 
+- Fall time 13.3 ns 
+
+## Comparison
+- Those two drivers all mentioned that they are ideal for GaN. So pick any of them would work for normal GaN operation. 
+- ACPL-P346-000E has a slightly better rising/falling time performance. However, Si8274 has a more accurate and steady dynamic. (The ranges are s are narrow.)
+- Surprisingly, they all have a significant propagation delay (or it is common in power semiconductor drivers.) We might be able to ignore this phenomenon at low frequency, however, it would become a pain in the ass when we pushing the frequency high. 
+
+
+
