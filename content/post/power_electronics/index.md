@@ -1,5 +1,5 @@
 ---
-title: Printed Circuit Board Tech. - Blog
+title: Power Electronics
 date: 2021-03-22
 math: true
 diagram: true
@@ -8,7 +8,7 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 > "Reviewers ridiculed it and consumers spurned it. Nevertheless, as is often with Microsoft products, persistence eventually made Windows better and dominant."
-
+# PCB Technique
 Discussion about the PCB design and EMC (Electro-Magnetic Compatibility) never stopped. The thing we need to do seems quite simple, find the three elements of the interference: Source, Propagation path, and Load. And then break them down. Though, the principles are important. You don't want to create a monster with some rigid rules. "The devil is in the detail."
 
 Here, this blog would record some essential information to illustrate the nature of a good design of PCB. Besides, some resources from *Youtube* or some forums may help. 
