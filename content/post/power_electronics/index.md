@@ -74,22 +74,30 @@ In this section, we would give an overview of respectively EMC, PCB and the bond
 
 We will start from the technical support of GaN Systems Inc.
 
-## Official Application Notes
+## GaN Systems Inc. Official Application Notes
 - Zero reverse recovery of GaN HEMT leads to lower switching loss and less EMI noise. (page 9 in GN001)
 - Smaller output capacitance results in lower switching loss and easier ZVS. 
 > They assume us adopting or wanting to adopt ZVS. 
-- 
+-  
 
 
 
 
+## Other options
+
+### monolithic integration
+> and not a multi-chip combination of a silicon driver and a gallium nitride power device.  
+
+Navitas Inc.
+
+> This idea is super cool. It's a pity that Navitas doesn't have a 100-V product line, otherwise I would really want to give it a try. 
 
 
 
 
 ## References
 [1] [application notes of GaN Systems Inc.](https://gansystems.com/design-center/application-notes/)
-
+[2] [Breaking Speed Limits with GaN Power ICs](https://navitassemi.com/breaking-speed-limits-with-gan-power-ics/)
 
 
 # GaN HEMT Driver Design Comparison
