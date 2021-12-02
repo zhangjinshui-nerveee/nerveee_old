@@ -118,11 +118,13 @@ We will start from the technical support of GaN Systems Inc.
 - Those two drivers all mentioned that they are ideal for GaN. So pick any of them would work for normal GaN operation. 
 - ACPL-P346-000E has a slightly better rising/falling time performance. However, Si8274 has a more accurate and steady dynamic. (The ranges are s are narrow.)
 - Surprisingly, they all have a significant propagation delay (or it is common in power semiconductor drivers.) We might be able to ignore this phenomenon at low frequency, however, it would become a pain in the ass when we pushing the frequency high. 
+- ACPL has a on-resistance of 0.3 $\omega$, and according to its max current output ability, the minimum of external gate resistor can be calculated:$R_{g, min} = (V_{CC} - V_{EE}) / I_{OUT} - R_{DSON} = 3.7\omega$
+
 
 
 ## Driver Circuit Structure: Should we put driving circuit and power circuit on the same board?
 - "Extremely costly and large interference if put driver and power stage on the same PCB." --- Dr. Li experienced. 
-- Designing them on the same board would give us a theoretically smaller tray inductance (<10nH). No other difference any more. However, it would be really hard to obtain this aim (tons of work on layout design.) 
+- Designing them on the same board would give us a theoretically smaller tray inductance (1~10 nH). No other difference any more. However, it would be really hard to obtain this aim (tons of work on layout design.) 
 - **Conclusion:** Even though this is the main stream in industries (after all the number of boards would affect significantly the final cost.), it won't hurt if we design the driver circuit as a daughter board.
 
 ### Gate Drive Consideration[5]
