@@ -1,5 +1,5 @@
 ---
-title: Power Electronics
+title: Driver Circuit for WBG Devices
 date: 2021-03-22
 math: true
 diagram: true

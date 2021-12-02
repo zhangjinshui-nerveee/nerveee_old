@@ -1,5 +1,5 @@
 ---
-title: Tech. Camp of Super-conducting
+title: Camp of Super Conductor Tech.
 summary: Cooler than liquid nitrogen !
 tags:
 - EE

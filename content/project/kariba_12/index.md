@@ -1,5 +1,5 @@
 ---
-title: Kariba's Twelve
+title: Kariba's Twelve MCM 2017
 summary: Make better use of Zambezi River's hydropower. 
 tags:
 - Other

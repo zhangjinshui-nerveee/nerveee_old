@@ -1,5 +1,5 @@
 ---
-title: Brain Science
+title: Cognitive Neuroscience
 date: 2021-03-25
 math: true
 diagram: true

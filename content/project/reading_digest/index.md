@@ -1,5 +1,5 @@
 ---
-title: Words that matter.
+title: Reading Digest
 date: 2021-03-25
 math: true
 diagram: true
