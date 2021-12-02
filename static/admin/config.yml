@@ -126,9 +126,9 @@ collections:
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
   - name: blogs
-    label: blogs
-    label_singular: blog
-    folder: 'content/project'
+    label: Blogs
+    label_singular: Blog
+    folder: 'content/blogs'
     path: '{{slug}}/index'
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
