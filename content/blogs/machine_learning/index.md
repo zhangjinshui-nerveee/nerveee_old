@@ -1,5 +1,6 @@
 ---
-title: Machine Learning Notes
+title: Machine Learning
+summary: An advanced introduction.
 date: 2021-03-25
 math: true
 diagram: true

@@ -1,5 +1,6 @@
 ---
 title: Cognitive Neuroscience
+summary: A learning note of textbooks about cognitive neuroscience. 
 date: 2021-03-25
 math: true
 diagram: true

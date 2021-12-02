@@ -1,5 +1,6 @@
 ---
 title: Make Ubuntu Easier to Use
+summary: Rookie wants to make Ubuntu comfortable.
 date: 2021-03-25
 math: true
 diagram: true

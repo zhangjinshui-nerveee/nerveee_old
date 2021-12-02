@@ -1,5 +1,6 @@
 ---
 title: FPGA Development with sbRIO and LabVIEW
+summary: Use LabVIEW as a starter of FPGA development. It sucks, you are gonna love it. 
 date: 2021-03-25
 math: true
 diagram: true
