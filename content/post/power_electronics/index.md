@@ -135,10 +135,10 @@ We will start from the technical support of GaN Systems Inc.
 
 ## References
 [1] Montrose, M.I., 2004. EMC and the printed circuit board: design, theory, and layout made simple (Vol. 6). John Wiley & Sons.<br>
-[2] H. W. Ott, ‘Electromagnetic Compatibility Engineering’, p. 871.
-[3] [application notes of GaN Systems Inc.](https://gansystems.com/design-center/application-notes/)
-[4] [Breaking Speed Limits with GaN Power ICs](https://navitassemi.com/breaking-speed-limits-with-gan-power-ics/)
-[5] [Design Recommendations for SiC MOSFETs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB7K_spMT0AhXej3IEHW09AzYQFnoECAIQAQ&url=https%3A%2F%2Fwww.microsemi.com%2Fdocument-portal%2Fdoc_download%2F136647-micronote-1826-microsemi-sic-mosfets-design-recommendations&usg=AOvVaw277z80u34b3XLi0y6IAzu5)
+[2] H. W. Ott, ‘Electromagnetic Compatibility Engineering’, p. 871.<br>
+[3] [application notes of GaN Systems Inc.](https://gansystems.com/design-center/application-notes/)<br>
+[4] [Breaking Speed Limits with GaN Power ICs](https://navitassemi.com/breaking-speed-limits-with-gan-power-ics/)<br>
+[5] [Design Recommendations for SiC MOSFETs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB7K_spMT0AhXej3IEHW09AzYQFnoECAIQAQ&url=https%3A%2F%2Fwww.microsemi.com%2Fdocument-portal%2Fdoc_download%2F136647-micronote-1826-microsemi-sic-mosfets-design-recommendations&usg=AOvVaw277z80u34b3XLi0y6IAzu5)<br>
 
 
 
