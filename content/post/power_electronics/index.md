@@ -62,19 +62,14 @@ In this section, we would give an overview of respectively EMC, PCB and the bond
 ## Special Topics
 - Cross talk
 - Impedance and signal reflection
-
-## References
-[1] Montrose, M.I., 2004. EMC and the printed circuit board: design, theory, and layout made simple (Vol. 6). John Wiley & Sons.<br>
-[2] H. W. Ott, ‘Electromagnetic Compatibility Engineering’, p. 871.
-
-# GaN HEMT Soft Switching and Hard Switching
+# Semiconductor switching and Driving Issues
 > When talking about ~MHz applications of GaN, we are always using soft-switching techniques. <br>
 
 > Is this true? Why is that? What happens if we want to use hard-switching in MHz occasion?
 
 We will start from the technical support of GaN Systems Inc.
 
-## GaN Systems Inc. Official Application Notes
+## (GaN Systems Inc.) Official Application Notes
 - Zero reverse recovery of GaN HEMT leads to lower switching loss and less EMI noise. (page 9 in GN001)
 - Smaller output capacitance results in lower switching loss and easier ZVS. 
 > They assume us adopting or wanting to adopt ZVS. 
@@ -83,31 +78,22 @@ We will start from the technical support of GaN Systems Inc.
 
 
 
-## Other options
+### Other options
 
-### monolithic integration
+### monolithic integration (Navitas Inc.)
 > and not a multi-chip combination of a silicon driver and a gallium nitride power device.  
 
-Navitas Inc.
 
 > This idea is super cool. It's a pity that Navitas doesn't have a 100-V product line, otherwise I would really want to give it a try. 
 
-
-
-
-## References
-[1] [application notes of GaN Systems Inc.](https://gansystems.com/design-center/application-notes/)
-[2] [Breaking Speed Limits with GaN Power ICs](https://navitassemi.com/breaking-speed-limits-with-gan-power-ics/)
-
-
-# GaN HEMT Driver Design Comparison
-## ACPL-P346-000E
+## GaN HEMT Driver Design Comparison: Optocoupler vs. SI8274
+### ACPL-P346-000E
 > 2.5-Amp Output Current Power, GaN and SiC MOSFET Gate Drive Optocoupler with Rail-to-Rail Output <br>
 
 > Rail-to-rail” implies that the signal swings all the way to supply voltage levels on both the positive and negative rails.<br>
 > In this case, it means the on-voltage is VCC and off-voltage is VEE.
 
-### Specifications
+#### Specifications
 - Propagation Delay Time to High Output Level Typ. 55 ns 
 - Propagation Delay Time to Low Output Level Typ. 55 ns 
 - Pulse width distortion Max. 50 ns 
@@ -119,19 +105,42 @@ Navitas Inc.
 
 
 
-## SI8274
+### SI8274
  
-### Specifications
+#### Specifications
 - propagation delay time 30 - 45 ns 
 - Pulse width distortion (SI8274 with low jitter) 14-19 ns 
 - Programmed dead time 20 ns
 - Rise time 10.5 ns 
 - Fall time 13.3 ns 
 
-## Comparison
+### Comparison
 - Those two drivers all mentioned that they are ideal for GaN. So pick any of them would work for normal GaN operation. 
 - ACPL-P346-000E has a slightly better rising/falling time performance. However, Si8274 has a more accurate and steady dynamic. (The ranges are s are narrow.)
 - Surprisingly, they all have a significant propagation delay (or it is common in power semiconductor drivers.) We might be able to ignore this phenomenon at low frequency, however, it would become a pain in the ass when we pushing the frequency high. 
+
+
+## Driver Circuit Structure: Should we put driving circuit and power circuit on the same board?
+- "Extremely costly and large interference if put driver and power stage on the same PCB." --- Dr. Li experienced. 
+- Designing them on the same board would give us a theoretically smaller tray inductance (<10nH). No other difference any more. However, it would be really hard to obtain this aim (tons of work on layout design.) Even though this is the main stream in industries (after all the number of boards would affect significantly the final cost.), it won't hurt if we design the driver circuit as a daughter board.
+
+### Gate Drive Consideration[5]
+- capacitance of gate drive interface should be kept low.
+- gate drive power supply should be rated for at least 50 V/ns 
+
+
+
+
+
+
+## References
+[1] Montrose, M.I., 2004. EMC and the printed circuit board: design, theory, and layout made simple (Vol. 6). John Wiley & Sons.<br>
+[2] H. W. Ott, ‘Electromagnetic Compatibility Engineering’, p. 871.
+[3] [application notes of GaN Systems Inc.](https://gansystems.com/design-center/application-notes/)
+[4] [Breaking Speed Limits with GaN Power ICs](https://navitassemi.com/breaking-speed-limits-with-gan-power-ics/)
+[5] [Design Recommendations for SiC MOSFETs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB7K_spMT0AhXej3IEHW09AzYQFnoECAIQAQ&url=https%3A%2F%2Fwww.microsemi.com%2Fdocument-portal%2Fdoc_download%2F136647-micronote-1826-microsemi-sic-mosfets-design-recommendations&usg=AOvVaw277z80u34b3XLi0y6IAzu5)
+
+
 
 
 
