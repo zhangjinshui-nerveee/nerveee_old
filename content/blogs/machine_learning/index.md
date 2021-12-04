@@ -111,6 +111,20 @@ See the [working details of autograd](https://pytorch.org/tutorials/beginner/bli
 - Update the weights of the network, typically using a simple update rule:
 > weight = weight - learning_rate * gradient
 
+## torchvision.datasets
+- The MNIST database (Modified National Institute of Standards and Technology database[1]) is a large database of handwritten digits that is commonly used for training various image processing systems.
+
+### data structure
+- torch.utils.data.DataLoader
+> At the heart of PyTorch data loading utility is the torch.utils.data.DataLoader class. It represents a Python iterable over a datasets
+```
+DataLoader(dataset, batch_size=1, shuffle=False, sampler=None,
+           batch_sampler=None, num_workers=0, collate_fn=None,
+           pin_memory=False, drop_last=False, timeout=0,
+           worker_init_fn=None, *, prefetch_factor=2,
+           persistent_workers=False)
+```
+
 
 
 # References
