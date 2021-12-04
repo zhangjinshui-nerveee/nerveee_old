@@ -100,6 +100,20 @@ Neural networks (NNs) are a collection of nested functions that are executed on 
 
 See the [working details of autograd](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html#sphx-glr-beginner-blitz-autograd-tutorial-py)
 
+## Neural Network
+> torch.nn
+### Typical training procedure
+- Define the neural network that has some learnable parameters (or weights) 
+- Iterate over a dataset of inputs 
+- Process input through the network
+- Compute the loss (how far is the output from being correct)
+- Propagate gradients back into the network’s parameters
+- Update the weights of the network, typically using a simple update rule:
+> weight = weight - learning_rate * gradient
+
+
+
 # References
-[1] [Latent Variables & Expectation Maximization Algorithm](https://towardsdatascience.com/latent-variables-expectation-maximization-algorithm-fb15c4e0f32c)
-[2] [tensor operation](https://pytorch.org/docs/stable/torch.html)
+[1] [Latent Variables & Expectation Maximization Algorithm](https://towardsdatascience.com/latent-variables-expectation-maximization-algorithm-fb15c4e0f32c)<br>
+[2] [tensor operation](https://pytorch.org/docs/stable/torch.html)<br>
+[3] [implement neural network pytorch](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html#sphx-glr-beginner-blitz-neural-networks-tutorial-py)
