@@ -76,3 +76,8 @@ And surely you can play more interesting and powerful things with .bashrc config
 free -h
 ```
 
+## Connect two Ubuntu using Remmina
+- Necessary: VNC server
+- steps:
+-
+
