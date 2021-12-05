@@ -124,6 +124,27 @@ DataLoader(dataset, batch_size=1, shuffle=False, sampler=None,
            worker_init_fn=None, *, prefetch_factor=2,
            persistent_workers=False)
 ```
+- push data onto device 
+when we configure the nn, we would specify its device.
+```
+net = net.to(device)
+```
+And we surely need to move data to the same device.
+```
+for batch_idx, (data, target) in enumerate(train_loader):
+    data = data.to(device)
+    target = target.to(device)
+    ......
+```
+Thus we can run the data on the device we want.
+
+
+
+
+### Evaluation mode  
+- The difference between train mode (default) and evaluation mode only makes sense when you use dropout layer in PyTorch.
+
+### COnfusion Matrix
 
 
 
