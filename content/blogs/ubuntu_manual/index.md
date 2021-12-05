@@ -68,3 +68,11 @@ lazy-gitpull-all % pull all
 ```
 
 And surely you can play more interesting and powerful things with .bashrc configuration. 
+
+
+
+## How to monitor the computer status
+```
+free -h
+```
+
