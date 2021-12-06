@@ -143,9 +143,16 @@ Thus we can run the data on the device we want.
 
 ### Evaluation mode  
 - The difference between train mode (default) and evaluation mode only makes sense when you use dropout layer in PyTorch.
+#### How to evaluate multi-class models?
+The NN will generate a n(class number) dimension output, with prob on each class. We can just find the max value and the prediction would be the consistent label. 
+```
+_, prediction = torch.max(outputs.data, 1)
+```
 
-### COnfusion Matrix
 
+### Convergence of Neural Network
+- A machine learning model reaches convergence when it achieves a state duting training in which loss settles to within an error range around the final values. In other words, a model converges when additional training will not improve the model. 
+-
 
 
 # References
