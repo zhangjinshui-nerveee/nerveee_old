@@ -88,3 +88,7 @@ free -h
 - steps:
 -
 
+
+## How to use vim plugin
+- fisadev
+
