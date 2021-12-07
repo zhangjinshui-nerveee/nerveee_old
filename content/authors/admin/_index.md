@@ -22,7 +22,7 @@ social:
     link: https://github.com/jimmy-zhangjinshui
 education:
   courses:
-    - course: PhD Candidate
+    - course: PhD Student
       institution: Brain Stimulation Engineering Lab, Duke University
       year: 2026
     - course: M.S. in Power Electronics
