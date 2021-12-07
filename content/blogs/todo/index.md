@@ -17,8 +17,8 @@ image:
 
 > Three [S] jobs at most. 
 ## Dec 07
-- [S] DVAM labview program 
-- [S] Test waveform oriented modulation program and finish the PPT for Wed. Meeting
+- [ ] [S] DVAM labview program 
+- [ ] [S] Test waveform oriented modulation program and finish the PPT for Wed. Meeting
 
 ## Dec 06
 - [S] Machine learning homework 1 & 2 [to be continued] [check]
