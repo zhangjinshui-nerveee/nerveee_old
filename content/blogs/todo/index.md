@@ -12,6 +12,10 @@ image:
 ---
 # DAILY TASK
 
+## Dec 08
+- [ ] M. monthly project meeting
+- [ ] Manuscript of ML. report
+
 
 ## Dec 07
 - [ ] DVAM labview program 
