@@ -15,8 +15,8 @@ image:
 
 ## Dec 07
 - [ ] DVAM labview program 
-- [ ] Test waveform oriented modulation program and finish the PPT for Wed. Meeting
-- [ ] M.L. Project manu.
+- [x] Test waveform oriented modulation program and finish the PPT for Wed. Meeting
+- [x] M.L. Project proto.
 
 ## Dec 06
 - [x] Machine learning homework 1 & 2 [to be continued] [check]
