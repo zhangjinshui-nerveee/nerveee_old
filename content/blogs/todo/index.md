@@ -15,7 +15,8 @@ image:
 ## Dec 08
 - [ ] M. monthly project meeting
 - [ ] Manuscript of ML. report
-
+- [ ] Give random command to verify the accuracy / approximation of DVAM
+- [ ] After finishing above, change code by using class. [optional]
 
 ## Dec 07
 - [ ] DVAM labview program 
