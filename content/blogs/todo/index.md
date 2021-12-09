@@ -12,10 +12,15 @@ image:
 ---
 # DAILY TASK
 
+## Dec 09
+- [ ] Change code by using class
+- [ ] SUbmit project report
+- [ ] Tax statement
+
 ## Dec 08
-- [ ] M. monthly project meeting
-- [ ] Manuscript of ML. report
-- [ ] Give random command to verify the accuracy / approximation of DVAM
+- [x] M. monthly project meeting
+- [x] Manuscript of ML. report
+- [x] Give random command to verify the accuracy / approximation of DVAM
 - [ ] After finishing above, change code by using class. [optional]
 
 ## Dec 07
