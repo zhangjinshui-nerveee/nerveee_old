@@ -16,6 +16,7 @@ image:
 - [ ] Change code by using class
 - [ ] SUbmit project report
 - [ ] Tax statement
+- [ ] Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters 
 
 ## Dec 08
 - [x] M. monthly project meeting
