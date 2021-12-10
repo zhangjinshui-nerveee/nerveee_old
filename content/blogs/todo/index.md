@@ -12,8 +12,8 @@ image:
 ---
 # DAILY TASK
 ## Dec 10
-- [] python output to labview (sequences and series)
-- [] Summary of machine learning class. 
+- [ ] python output to labview (sequences and series)
+- [ ] Summary of machine learning class. 
 
 
 ## Dec 09
