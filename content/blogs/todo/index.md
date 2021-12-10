@@ -11,9 +11,13 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
+## Dec 10
+- [] python output to labview (sequences and series)
+- [] Summary of machine learning class. 
+
 
 ## Dec 09
-- [ ] Change code by using class
+- [x] Change code by using class
 - [x] SUbmit project report
 - [ ] Tax statement
 - [ ] Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters 
