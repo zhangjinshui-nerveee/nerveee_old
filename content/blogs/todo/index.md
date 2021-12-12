@@ -11,6 +11,12 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
+
+## Dec 12
+- [ ] run python scipt example in labview
+- [ ] go through tech files for discussion
+
+
 ## Dec 10
 - [ ] python output to labview (sequences and series)
 - [ ] Summary of machine learning class. 
