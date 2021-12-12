@@ -13,7 +13,8 @@ image:
 # DAILY TASK
 
 ## Dec 12
-- [ ] run python scipt example in labview
+- [x] run python scipt example in labview
+- [ ] modify dvam code and let python output 100 available sequences 
 - [ ] go through tech files for discussion
 
 
