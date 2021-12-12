@@ -19,52 +19,45 @@ vim ~/.bashrc
 2. use 'alias' 
 
 ```
-# customed command
-alias skill-update='cd /home/jinshui/Documents/Github/make_difference_by_10k_hours
+alias skill-update='cd /home/jinshui/Documents/github/make_difference_by_10k_hours
                     python3 update_daily.py'
-alias slipbox='vim -p /home/jinshui/Documents/Github/slipbox/PermanentNotes/*.md'
-alias todo='vim /home/jinshui/Documents/Github/slipbox/todo.md'
+alias slipbox='vim -p /home/jinshui/Documents/github/slipbox/PermanentNotes/*.md'
+alias todo='vim /home/jinshui/Documents/github/nerveee/content/blogs/todo/index.md'
 
-alias blog-power-electronics='vim /home/jinshui/Documents/Github/nerveee/content/blogs/driver_circuit_for_wbg_devices/index.md'
-alias blog-neuroscience='vim /home/jinshui/Documents/Github/nerveee/content/blogs/cognitive_neuroscience/index.md'
-alias blog-ubuntu='vim /home/jinshui/Documents/Github/nerveee/content/blogs/ubuntu_manual/index.md'
-alias blog-fpga='vim /home/jinshui/Documents/Github/nerveee/content/blogs/fpga_development_with_sbrio_and_labview/index.md'
-alias blog-machine-learning='vim /home/jinshui/Documents/Github/nerveee/content/blogs/machine_learning/index.md'
-alias blog-reading-digest='vim /home/jinshui/Documents/Github/nerveee/content/blogs/reading_digest/index.md'
+alias blog-power-electronics='vim /home/jinshui/Documents/github/nerveee/content/blogs/driver_circuit_for_wbg_devices/index.md'
+alias blog-neuroscience='vim /home/jinshui/Documents/github/nerveee/content/blogs/cognitive_neuroscience/index.md'
+alias blog-ubuntu='vim /home/jinshui/Documents/github/nerveee/content/blogs/ubuntu_manual/index.md'
+alias blog-fpga='vim /home/jinshui/Documents/github/nerveee/content/blogs/fpga_development_with_sbrio_and_labview/index.md'
+alias blog-machine-learning='vim /home/jinshui/Documents/github/nerveee/content/blogs/machine_learning/index.md'
+alias blog-reading-digest='vim /home/jinshui/Documents/github/nerveee/content/blogs/reading_digest/index.md'
 
 alias lazy-gitpush-all='
-                  cd /home/jinshui/Documents/Github/ece_687d
+                  cd /home/jinshui/Documents/github/make_difference_by_10k_hours
                   git add --all
                   git commit -a -m "commit"
                   git push
-                  cd /home/jinshui/Documents/Github/make_difference_by_10k_hours
+                  cd /home/jinshui/Documents/github/nerveee
                   git add --all
                   git commit -a -m "commit"
                   git push
-                  cd /home/jinshui/Documents/Github/nerveee
+                  cd /home/jinshui/Documents/github/slipbox
                   git add --all
                   git commit -a -m "commit"
                   git push
-                  cd /home/jinshui/Documents/Github/slipbox
-                  git add --all
-                  git commit -a -m "commit"
-                  git push
-                  cd /home/jinshui/Documents/Github/mps_tms
+                  cd /home/jinshui/Documents/github/mps_tms
                   git add --all
                   git commit -a -m "commit"
                   git push
                   exit'
 
 alias lazy-gitpull-all='
-                  cd /home/jinshui/Documents/Github/ece_687d
+                  cd /home/jinshui/Documents/github/mps_tms
                   git pull
-                  cd /home/jinshui/Documents/Github/mps_tms
+                  cd /home/jinshui/Documents/github/nerveee
                   git pull
-                  cd /home/jinshui/Documents/Github/nerveee
+                  cd /home/jinshui/Documents/github/slipbox
                   git pull
-                  cd /home/jinshui/Documents/Github/slipbox
-                  git pull
-                  cd /home/jinshui/Documents/Github/make_difference_by_10k_hours
+                  cd /home/jinshui/Documents/github/make_difference_by_10k_hours
                   git pull
                   exit'
 ```
