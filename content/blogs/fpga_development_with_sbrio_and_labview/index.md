@@ -27,3 +27,6 @@ image:
 
 ## Development Environment
 
+## Running python script in labview
+- Notice: FPGA is only support by 32-bit LabVIEW. Therefore the python should be also 32-bit.
+
