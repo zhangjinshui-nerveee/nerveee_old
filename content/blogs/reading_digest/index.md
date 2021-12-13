@@ -22,4 +22,4 @@ image:
 - 纳粹为何迫害犹太人 -- 利用犹太人的财富支撑着自己财政策略和社会与军队建设.
 - We are what we repeatedly do. 
 - 店大欺客,客大欺店.
-- 
+- If you are nothing without this suit, then you shouldn't have it. 
