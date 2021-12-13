@@ -29,4 +29,10 @@ image:
 
 ## Running python script in labview
 - Notice: FPGA is only support by 32-bit LabVIEW. Therefore the python should be also 32-bit.
+- Error code: 1667. "Python node in xx.vi."
+> cause: the modules imported in .py is not installed. 
 
+For more error codes, check here.<br>
+[General LabVIEW Error Codes](https://zone.ni.com/reference/en-XX/help/371361R-01/lverror/misc_lv_error_codes/)<br>
+[Labview Error Code Family](https://labviewwiki.org/wiki/LabVIEW_Error_Code_Family)
+note: general, not all !!!
