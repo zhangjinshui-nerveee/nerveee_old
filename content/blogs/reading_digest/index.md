@@ -1,5 +1,7 @@
 ---
 title: Reading Digest
+tags:
+- Other
 summary: Words that matter to me. 
 date: 2021-03-25
 math: true
