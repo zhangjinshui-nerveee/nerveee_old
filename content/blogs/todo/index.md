@@ -11,10 +11,14 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
+- [ ] modify labview prog, integrate FPGA module
+- [ ] Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters 
+
+
 
 ## Dec 12
 - [x] run python scipt example in labview
-- [ ] modify dvam code and let python output 100 available sequences 
+- [x] modify dvam code and let python output 100 available sequences 
 - [ ] go through tech files for discussion
 
 
