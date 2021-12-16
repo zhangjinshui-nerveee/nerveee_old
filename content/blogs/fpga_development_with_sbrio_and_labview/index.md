@@ -40,4 +40,35 @@ note: general, not all !!!
 ## Manipulate Arrays in FPGA (with LabVIEW)
 - The size of array must be fixed. (The FPGA needs to reserve some resource for this array) And the size can not be changed during the program, thus functions like "delete from array" can not be used. Also, the computing ability would put some limits on the size of array. 
 - We usually use one-click loop structure, where some functions would be disabled, such as "rotate array". 
-- 
+
+
+# Developer with sbRIO
+> sbRIO is the single board version of cRIO. They can actually do the same things. 
+
+> Objectives:
+> - Figure out how the information flows among three levels: PC(Host), Real-time processor, FPGA. 
+
+
+## Architecture
+- LabVIEW
+- A processor running real-time operating system RTOs, excels at floating-point math and analysis. 
+- A reconfigurable FPGA, excels at smaller tasks that require high-speed logic and precise timing
+- Interchangeable industrial I/O modules. (Extra products, not on the sbRIO)
+
+
+## Designing a CompactRIO Software Achitecture (Several common cRIO architectures)
+- Host --Ethernet-- Real-time VI --PCI bus-- FPGA VI<br>
+	optional: RIO scan interface -> I/O data placed into local memory on RT controller. 
+> Can we generate data from RT controller to place in the local memory and let FPGA read from it?
+
+
+
+
+
+
+
+
+
+
+
+
