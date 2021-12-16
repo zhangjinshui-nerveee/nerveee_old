@@ -43,7 +43,7 @@ note: general, not all !!!
 
 
 # Developer with sbRIO
-> sbRIO is the single board version of cRIO. They can actually do the same things. 
+> CompactRIO board-level controllers, such as CompactRIO Single-Board Controllers (sbRIO), have the same architecture as packaged CompactRIO controllers, but come without rugged packaging, and have a smaller form factor. sbRIO and cRIO are basically the same thing. 
 
 > Objectives:
 > - Figure out how the information flows among three levels: PC(Host), Real-time processor, FPGA. 
@@ -61,8 +61,9 @@ note: general, not all !!!
 	optional: RIO scan interface -> I/O data placed into local memory on RT controller. 
 > Can we generate data from RT controller to place in the local memory and let FPGA read from it?
 
-
-
+- An example. [LabVIEW procedure: Make your first RT application](https://www.youtube.com/watch?v=I43pZm0SeCQ&t=1133s)
+  - RT main.vi Running. 
+  - PC main.vi connect RT main.vi through variables. Control and read. 
 
 
 
