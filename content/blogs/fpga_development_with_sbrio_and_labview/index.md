@@ -65,7 +65,7 @@ note: general, not all !!!
   - RT main.vi Running. 
   - PC main.vi connect RT main.vi through variables. Control and read. 
 
-
+## Choosing a CompactRIO Programming Mode
 
 
 
