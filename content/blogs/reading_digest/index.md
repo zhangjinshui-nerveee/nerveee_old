@@ -25,3 +25,4 @@ image:
 - We are what we repeatedly do. 
 - 店大欺客,客大欺店.
 - If you are nothing without this suit, then you shouldn't have it. 
+- There are three topics going up, machine learning, embeded system, power electronics. Especially the machine learning in embeded systems.
