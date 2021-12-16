@@ -36,3 +36,8 @@ For more error codes, check here.<br>
 [General LabVIEW Error Codes](https://zone.ni.com/reference/en-XX/help/371361R-01/lverror/misc_lv_error_codes/)<br>
 [Labview Error Code Family](https://labviewwiki.org/wiki/LabVIEW_Error_Code_Family)
 note: general, not all !!!
+
+## Manipulate Arrays in FPGA (with LabVIEW)
+- The size of array must be fixed. (The FPGA needs to reserve some resource for this array) And the size can not be changed during the program, thus functions like "delete from array" can not be used. Also, the computing ability would put some limits on the size of array. 
+- We usually use one-click loop structure, where some functions would be disabled, such as "rotate array". 
+- 
