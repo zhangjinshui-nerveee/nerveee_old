@@ -11,7 +11,12 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
-- [ ] modify labview prog, integrate FPGA module
+## Dec
+- [ ] Explore and blog the three levels of sbRIO: PC (Host), Real-time (ARM), FPGA.
+- [ ] Shadow memory
+
+## Dec 15
+- [x] modify labview prog, integrate FPGA module
 - [ ] Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters 
 
 
