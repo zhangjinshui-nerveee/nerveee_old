@@ -11,8 +11,15 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
-## Dec
-- [ ] Explore and blog the three levels of sbRIO: PC (Host), Real-time (ARM), FPGA.
+
+## Dec 17
+- [ ] Transplant waveform oriented modulation into real time program, (floating-point in real-time target, logic in FPGA).
+- [ ] 
+
+
+## Dec 16
+- [x] Meetings
+- [x] Explore and blog the three levels of sbRIO: PC (Host), Real-time (ARM), FPGA.
 - [ ] Shadow memory
 
 ## Dec 15
