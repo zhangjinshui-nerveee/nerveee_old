@@ -13,8 +13,8 @@ image:
 # DAILY TASK
 
 ## Dec 17
-- [ ] Transplant waveform oriented modulation into real time program, (floating-point in real-time target, logic in FPGA).
-- [ ] 
+- [x] Transplant waveform oriented modulation into real time program, (floating-point in real-time target, logic in FPGA).
+- [ ] Use FIFO communicate between host, real-time, and FPGA. 
 
 
 ## Dec 16
