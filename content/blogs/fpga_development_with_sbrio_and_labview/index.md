@@ -67,7 +67,25 @@ note: general, not all !!!
 
 ## Choosing a CompactRIO Programming Mode
 
+## Use FIFO (First-In-First-Out) to communicate between real time controller and FPGA
+[Reference Video](https://www.youtube.com/watch?v=Nr8q5VW-mXI)
+- FIFO can be made of registers (flip-flops) or BRAM (Block RAM). Registers mean small data since the flip-flops inside FPGA are precious. BRAM can operate a larger data. 
+- FIFO has width and length. Think about output a video or stream media. 
+- Golden rules: Never write to a full FIFO (overflow). Never read from an empty FIFO (underflow). 
+- Shared clock makes things easier.
+- Figure out how to write code using AR/AF/Empty/Full flags.
+- Never rely on FIFO level count.
+- FIFO can be created in three ways: Instantiation, inference (recommended), GUI tools. 
+- First Word Fall Through is great. [ref](http://www.deathbylogic.com/2015/01/vhdl-first-word-fall-through-fifo/) "The main difference between standard FIFOs and FWFT FIFOs are that, as the name describes, the first byte written into the FIFO immediately appears on the output"
+### FIFO in sbRIO
+- Data communication in LabVIEW FPGA falls into two categories: interprocess and intertarget. Interprocess communication generally corresponds to sharing data between two or more loops on the FPGA target. 
+> Intertarget is what we need here. 
 
+To do that, there are two methods: front panel controls and indicators, or DMA FIFOs. Both require using the FPGA Interface functions on the host VI to interact with the FPGA.
+#### Front Panel Controls and Indicators
+If you only need to transfer the latest data to / from a host VI.
+
+Read/Write nodes are good candidates for transferring multiple pieces of information between the FPGA and host processor given their relatively low overhead. 
 
 
 
