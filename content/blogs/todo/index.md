@@ -11,6 +11,9 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
+## Dec 18 
+- [ ] Check lecture slides
+- [ ] Debug protection board
 
 ## Dec 17
 - [x] Transplant waveform oriented modulation into real time program, (floating-point in real-time target, logic in FPGA).
