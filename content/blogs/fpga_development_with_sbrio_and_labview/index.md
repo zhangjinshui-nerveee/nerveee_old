@@ -93,6 +93,11 @@ Read/Write nodes are good candidates for transferring multiple pieces of informa
   - It has something to do with the timeout configuration. When the timeout is set a positive integar, there is the error code 50400. It disappeared when set to -1, but the program would get stuck at iteration 69. 
   - The reason is that FIFO is overflowed. 
 
+- I got confused about the size definition in FIFO. There are some different "depths" in FIFO. 
+  - "Requested Number of Elements". As in the project interface -- FIFO (right-click) -- FIFO properties -- General
+  - The array size that we write to FIFO
+  - Evoke method. FIFO. write. There is a property "empty elements remaining". 
+> In my first understanding, the empty elements remaining should be equal to requested number - the array size we write to FIFO. But in the program debugging, it's not. Why is that?
 
 
 
