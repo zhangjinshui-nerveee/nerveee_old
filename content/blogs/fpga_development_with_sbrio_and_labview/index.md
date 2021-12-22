@@ -89,6 +89,9 @@ Read/Write nodes are good candidates for transferring multiple pieces of informa
 
 ### Debugging
 - Error code 50400. Occured in invoke method "FIFO.write".
+[reference](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000kG75SAE)<br>
+  - It has something to do with the timeout configuration. When the timeout is set a positive integar, there is the error code 50400. It disappeared when set to -1, but the program would get stuck at iteration 69. 
+  - The reason is that FIFO is overflowed. 
 
 
 
