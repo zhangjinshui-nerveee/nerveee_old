@@ -87,6 +87,8 @@ If you only need to transfer the latest data to / from a host VI.
 
 Read/Write nodes are good candidates for transferring multiple pieces of information between the FPGA and host processor given their relatively low overhead. 
 
+### Debugging
+- Error code 50400. Occured in invoke method "FIFO.write".
 
 
 
