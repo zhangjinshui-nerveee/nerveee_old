@@ -97,7 +97,11 @@ Read/Write nodes are good candidates for transferring multiple pieces of informa
   - "Requested Number of Elements". As in the project interface -- FIFO (right-click) -- FIFO properties -- General
   - The array size that we write to FIFO
   - Evoke method. FIFO. write. There is a property "empty elements remaining". 
-> In my first understanding, the empty elements remaining should be equal to requested number - the array size we write to FIFO. But in the program debugging, it's not. Why is that?
+> In my first understanding, the empty elements remaining should be equal to requested number - the array size we write to FIFO. But in the program debugging, it's not. Why is that?<br>
+> Answer here. 
+  - When you create the FIFO, you need to specify the elements you are gonna transfer ("requested number of elements"). Sure the number has a limit based on the memory. In our case, the number upper limit is 524293. (Note that below this number, the actual number of elements would be a little higher than the requested. e.g. 1000 -> 1029). 
+  - For the "empty elements remaining", this is fun. Only when the empty elements are less than 3096 would the empty elements be changed, otherwise it would stay 3096. It sounds wired but actually reasonable. In this way we can obtain the almost full effect. We can set a threshold that when this number is below 3096 we should stop writing to FIFO. 
+  - Now everything makes sense.    
 
 
 
