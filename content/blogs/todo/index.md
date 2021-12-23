@@ -11,6 +11,10 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
+## Dec 23
+- [x] Weekly meeting with Goetz.
+- [ ] Try G.F. method in python.
+
 ## Dec 22
 - [ ] Modify labview program, enable freq. amp. array 
 - [ ] Prepare for the meeting on Dec 23
