@@ -142,9 +142,6 @@ image:
 
 # Quarterly Summary
 ## Oct - Dec 2021
-- [ ] Write a tech doc introducing the prototype. 
-- [ ] Submission to ECCE 2022
-- [ ] Guitar
 
 # Yearly Summary
 
