@@ -87,7 +87,22 @@ If you only need to transfer the latest data to / from a host VI.
 
 Read/Write nodes are good candidates for transferring multiple pieces of information between the FPGA and host processor given their relatively low overhead. 
 
+### Debugging
+- Error code 50400. Occured in invoke method "FIFO.write".
+[reference](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA00Z000000kG75SAE)<br>
+  - It has something to do with the timeout configuration. When the timeout is set a positive integar, there is the error code 50400. It disappeared when set to -1, but the program would get stuck at iteration 69. 
+  - The reason is that FIFO is overflowed. 
 
+- I got confused about the size definition in FIFO. There are some different "depths" in FIFO. 
+  - "Requested Number of Elements". As in the project interface -- FIFO (right-click) -- FIFO properties -- General
+  - The array size that we write to FIFO
+  - Evoke method. FIFO. write. There is a property "empty elements remaining". 
+> In my first understanding, the empty elements remaining should be equal to requested number - the array size we write to FIFO. But in the program debugging, it's not. Why is that?<br>
+> Answer here. 
+  - When you create the FIFO, you need to specify the elements you are gonna transfer ("requested number of elements"). Sure the number has a limit based on the memory. In our case, the number upper limit is 524293. (Note that below this number, the actual number of elements would be a little higher than the requested. e.g. 1000 -> 1029). 
+  - For the "empty elements remaining", it is what we thought it would be. In the question I said it's not because I changed the requested depth in the configuration. 
+  - But do we need to configure its depth? And what's the difference of this "requested depth" and "requested number of elements" during creation? 
+  - Now everything makes sense.    
 
 
 
