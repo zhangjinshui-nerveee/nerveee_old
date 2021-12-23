@@ -27,3 +27,49 @@ image:
 - 店大欺客,客大欺店.
 - If you are nothing without this suit, then you shouldn't have it. 
 - There are three topics going up, machine learning, embeded system, power electronics. Especially the machine learning in embeded systems.
+- Cells inside a person would update 10% per day, which means you are a brand new yourself every three months. So give yourself a new journey.
+
+## Summary of 2021 second half
+Research, life. 
+
+Such a mess for my research this year. I though I was hard-working and smart. Neigther is true. I keep failing my goals everyday. It feels like everything is out of control. I didn't feel good using LabVIEW at first (but now I love it). I disrespected Reza's design, which is actually suitable for this project. What's worse, I didn't come up with a better solution but I deeply refused to use current design. So this gives me nothing finally. 
+
+Of course I could blame something else. The low efficiency of the campus system, and .... and ... And what? Nothing else could be blamed. And even if there is any, you can always find something to blame for your failure yesterday, but nothing but yourself can be responsible for your tomorrow. So the key is always in your hand. 
+
+For my life, I suffered two weeks just before this blog. The reason should be the too long time sitting in front of the screen. Besides that, i think everything is fine. I do have time for gym. And I feel lucky that the time is pretty flexible. 
+
+All right, too much emotions. What can I take from 2021 to 2022 after all?
+
+I do need a better way to manage my time. Being with other people would be a great idea. So go to the library, the ece building, the leasing office, anywhere people show you that they are going to beat you and eliminate you. Also, keep updating your to do list on your website. Make it natural. 
+> More specifically, as a phd, you should wake up at 7am and go to sleep before 12pm. Here is how I would assign my time and energy. 
+- In the morning, learn stuff. Do your homework. Think and plan your project. 
+- Have a lunch in the hospital. Have an one hour break, talk with someone. 
+- In the afternoon (before 4pm), do experiment. Stick to the list made in the morning. 
+- Then go back to you apartment, and go to gym. 
+- Night, with your laptop and manjaro, machine learning and blogs!
+
+Learn more, in class. Learning is easy when by yourself, but not efficient. So if you want to learn something, enroll a class. Otherwise, learn it when you need it. And of course, the most important thing in learning would be output. For a class, you will have to submit the homework or project. For the project, you must know how to use it. But sometimes you don't know why it works. That's why you pay for your website. Use it. Post blogs, high-quality blogs on your website. 
+
+Handy tool helps you alot. In the lab, use windows and PC tower to develop program. Design PCB. Do simulation maybe. Outside the lab, manjaro / linux to learn and use machine learning for medical power electronics. 
+
+### Here are some rules.
+- Cell phones always in the backpack. 
+- No phone before sleeping. 
+- Don't play games in the Lab. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
