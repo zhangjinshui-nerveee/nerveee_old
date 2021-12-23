@@ -10,6 +10,7 @@ image:
   placement: 3
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
+> JUST MORE TIME. 
 
 - "If you want to live your life in a creative wat, as an artist, you have to not look back too much. You have to be willing to take whatever you've done and whoever you were and throw them away." --Steve Jobs
 - But he also realized deep inside, that he had increasingly abandoned the hacker spirit. Macintosh, overpriced, no slots, like something designed by Big Brother rather than by a hacker. 
