@@ -11,6 +11,11 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
+
+## Dec 29
+- [ ] build plecs model
+- [ ] research on G.F. method
+
 ## Dec 23
 - [x] Weekly meeting with Goetz.
 - [ ] Try G.F. method in python.
