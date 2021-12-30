@@ -15,6 +15,7 @@ image:
 ## Dec 29
 - [ ] build plecs model
 - [ ] research on G.F. method
+- [ ] review all lectures of power electronics
 
 ## Dec 23
 - [x] Weekly meeting with Goetz.
