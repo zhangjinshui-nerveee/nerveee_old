@@ -18,6 +18,7 @@ image:
 - [x] RMC generation of FPGA target
 - [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
 - [x] Running the machine in Lab
+- [ ] Use square waveform program debug overcurrent protection 
 ## Dec 29
 - [ ] build plecs model
 - [ ] research on G.F. method
