@@ -11,6 +11,9 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
+## Jan 01
+- [ ] Check SSN appointment
+- [ ] Check all alides and send them to Angel
 
 ## Dec 29
 - [ ] build plecs model
