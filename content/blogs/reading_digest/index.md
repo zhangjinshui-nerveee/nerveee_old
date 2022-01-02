@@ -66,3 +66,6 @@ Handy tool helps you alot. In the lab, use windows and PC tower to develop progr
 - Talk more. With your friends. 
 - Alone less. 
 
+> You have the responsibility to make decisions. <br>
+> You have the right to make decisions. <br>
+> You have the right to make mistakes. 
