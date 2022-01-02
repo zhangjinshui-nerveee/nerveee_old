@@ -16,7 +16,7 @@ image:
 ## Jan 02
 - [ ] Check all alides and send them to Angel
 - [ ] RMC generation of FPGA target
-
+- [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
 ## Dec 29
 - [ ] build plecs model
 - [ ] research on G.F. method
