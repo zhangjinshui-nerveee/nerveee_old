@@ -14,9 +14,10 @@ image:
 ## Dec 03
 - [ ] Check SSN appointment
 ## Jan 02
-- [ ] Check all alides and send them to Angel
-- [ ] RMC generation of FPGA target
+- [x] Check all alides and send them to Angel
+- [x] RMC generation of FPGA target
 - [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
+- [ ] Running the machine in Lab
 ## Dec 29
 - [ ] build plecs model
 - [ ] research on G.F. method
