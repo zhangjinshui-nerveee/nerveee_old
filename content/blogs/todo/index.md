@@ -14,6 +14,7 @@ image:
 ## Jan 01
 - [ ] Check SSN appointment
 - [ ] Check all alides and send them to Angel
+- [ ] RMC generation of FPGA target
 
 ## Dec 29
 - [ ] build plecs model
