@@ -11,8 +11,9 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
-## Jan 01
+## Dec 03
 - [ ] Check SSN appointment
+## Jan 02
 - [ ] Check all alides and send them to Angel
 - [ ] RMC generation of FPGA target
 
