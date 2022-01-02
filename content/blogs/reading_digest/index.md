@@ -57,19 +57,14 @@ Handy tool helps you alot. In the lab, use windows and PC tower to develop progr
 - No phone before sleeping. 
 - Don't play games in the Lab. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> Plans for 2022. <br>
+> I definitely need to meet some new friends. 
+> Maybe a new space if the price is not too high. But first thing first, need to make better use of my time. 
+- Bring lunch, or dinner if needed or I moved.
+- Read more. Publishing better and more (if possible) blogs. 
+- Code more. Don't hesitate on tools that you use. Use whatever might work. (Pre-thinking or planning could be useful sometimes, but not all the time. 
+- Walk more. Lab to Lib. 
+- Run more. For your health. 
+- Talk more. With your friends. 
+- Alone less. 
 
