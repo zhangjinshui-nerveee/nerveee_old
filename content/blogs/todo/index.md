@@ -11,8 +11,15 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
+
+![image](https://user-images.githubusercontent.com/69950916/148238247-b4e00972-a16f-4203-b670-57b24fd3c9f4.png)
+
+## Dec 05
+- [ ] ECE 682
+- [ ] BME 547
+- [ ] Enable sbRIO sampling (and protection)
 ## Dec 03
-- [ ] Check SSN appointment
+- [x] Check SSN appointment
 ## Jan 02
 - [x] Check all alides and send them to Angel
 - [x] RMC generation of FPGA target
