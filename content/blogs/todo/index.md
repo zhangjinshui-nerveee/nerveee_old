@@ -11,11 +11,22 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 # DAILY TASK
+
+![image](https://user-images.githubusercontent.com/69950916/148238247-b4e00972-a16f-4203-b670-57b24fd3c9f4.png)
+
+## Dec 05
+- [ ] ECE 682
+- [ ] BME 547
+- [ ] Enable sbRIO sampling (and protection)
 ## Dec 03
+<<<<<<< HEAD
 - [ ] BME 547 pre-lecture Assessment
 - [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
 - [x] Check SSN appointment
 - [ ] Flying wires to enable overvoltage protection
+=======
+- [x] Check SSN appointment
+>>>>>>> c14f0a8fb03555f77b2a8a2a6d0413c158b89ea9
 ## Jan 02
 - [x] Check all alides and send them to Angel
 - [x] RMC generation of FPGA target
