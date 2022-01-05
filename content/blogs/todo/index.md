@@ -10,12 +10,35 @@ image:
   placement: 3
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
+
+# Classes Spring 2022
+## ECE 682D / SAT 561 -PROBABILISTIC MACHINE LEARNING
+- Time slot: MoWe 10:15am =- 11:30am + Th 5:15pm - 6:30pm (Discussion) 
+- Social Network: slack
+- Grade components
+
+## BME 547 MEDICAL SOFTWARE DESIGN
+- Time slot MoWe 3:30pm - 4:45pm
+- Social Network: Panapto Video before lecture
+
+## MATH 766 MATH OF MACHINE LEARNING
+- Time slot: TuTh 8:30am - 9:45am
+- Social Network
+
+## ECE 531 / ENRGYEGR 531 PWR CKTS FOR ENERGY CONVERSION
+- Time slot: TuTh 3:30pm - 4:45pm (Lecture) We 2:00pm - 3:00pm (TA office hour)
+- Social Network: Piazza
+- Duties: Grade homework
+
+
+
+
 # DAILY TASK
 
 ## Dec 05
 - [ ] BME 547 pre-lecture Assessment
-- [ ] ECE 682
-- [ ] BME 547
+- [x] ECE 682
+- [x] BME 547
 - [ ] Enable sbRIO sampling (and protection)
 
 ## Dec 03
