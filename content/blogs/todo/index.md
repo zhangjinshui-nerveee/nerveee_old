@@ -12,11 +12,13 @@ image:
 ---
 # DAILY TASK
 ## Dec 03
-- [ ] Check SSN appointment
+- [ ] BME 547 pre-lecture Assessment
+- [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
+- [x] Check SSN appointment
+- [ ] Flying wires to enable overvoltage protection
 ## Jan 02
 - [x] Check all alides and send them to Angel
 - [x] RMC generation of FPGA target
-- [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
 - [x] Running the machine in Lab
 - [ ] Use square waveform program debug overcurrent protection 
 ## Dec 29
