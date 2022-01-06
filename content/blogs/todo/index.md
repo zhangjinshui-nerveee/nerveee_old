@@ -14,8 +14,11 @@ image:
 # Tasks
 
 ## Within 72 hours
-- [ ] BME 547 pre-lecture Assessment
 - [ ] Enable sbRIO sampling (and protection)
+  - Observe the AI signals with oscilliscope. 
+  - Input range of AI0-15 (Why read AI0 could generate -10-+10 indicator?)
+  - When daughter and mother boards are not connected, the output of AI0-15 is around 0.3. Is this normal?
+  - When daughter and mother boards are connected, the ouput becomes abnormal. Some may be 0.9, and some 0.0, others are among. Why is that? Should we condition the signals? 
 - [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
 - [ ] Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters 
 - [ ] BME 547 pre-lecture videos
@@ -28,7 +31,7 @@ image:
 
 
 ## Finished
-
+- [x] BME 547 pre-lecture Assessment
 - [x] Check SSN appointment
 - [x] Flying wires to enable overvoltage protection
 - [x] Check SSN appointment
