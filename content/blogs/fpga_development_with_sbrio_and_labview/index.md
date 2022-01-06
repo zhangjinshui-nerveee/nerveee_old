@@ -103,6 +103,6 @@ Read/Write nodes are good candidates for transferring multiple pieces of informa
   - Now everything makes sense.    
 
 ## MIO and ADC 
-
-
+[what is MIO Multifunction Input Output](https://www.ni.com/en-us/support/documentation/supplemental/16/specifications-explained--ni-multifunction-i-o--mio--daq.html)<br>
+- I guess we could read the analog input directly. But something is wrong now. When I connect the AI0-11 to the output of modules, their values are changing wiredly. 
 

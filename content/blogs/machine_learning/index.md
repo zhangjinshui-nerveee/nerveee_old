@@ -152,7 +152,16 @@ _, prediction = torch.max(outputs.data, 1)
 
 ### Convergence of Neural Network
 - A machine learning model reaches convergence when it achieves a state duting training in which loss settles to within an error range around the final values. In other words, a model converges when additional training will not improve the model. 
--
+
+# Probabilistic Machine Learning
+
+# Math of  Machine Learning
+- Linear algebra. Multi- calculus. 
+
+
+
+
+
 
 
 # References
