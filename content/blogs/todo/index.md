@@ -19,7 +19,7 @@ image:
 - [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
 - [ ] Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters 
 
-## Task pool
+## Pool
 - [ ] Try G.F. method in python.
 - [ ] Debug protection board
 - [ ] Shadow memory
