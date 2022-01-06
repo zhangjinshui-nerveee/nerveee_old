@@ -65,8 +65,6 @@ note: general, not all !!!
   - RT main.vi Running. 
   - PC main.vi connect RT main.vi through variables. Control and read. 
 
-## Choosing a CompactRIO Programming Mode
-
 ## Use FIFO (First-In-First-Out) to communicate between real time controller and FPGA
 [Reference Video](https://www.youtube.com/watch?v=Nr8q5VW-mXI)
 - FIFO can be made of registers (flip-flops) or BRAM (Block RAM). Registers mean small data since the flip-flops inside FPGA are precious. BRAM can operate a larger data. 
@@ -103,6 +101,8 @@ Read/Write nodes are good candidates for transferring multiple pieces of informa
   - For the "empty elements remaining", it is what we thought it would be. In the question I said it's not because I changed the requested depth in the configuration. 
   - But do we need to configure its depth? And what's the difference of this "requested depth" and "requested number of elements" during creation? 
   - Now everything makes sense.    
+
+## MIO and ADC 
 
 
 
