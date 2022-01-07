@@ -19,8 +19,8 @@ image:
   - [ ] Operation video record. 
   - [ ] Reasons for every step.  
   - [ ] Why the first time FPGA runs program always fails. 
-
-
+- Debug all M.Proj. Modules voltage sampling
+- Test M. Proj. program
 ## Pool
 - [ ] Debug protection board
 - [ ] Tax statement
