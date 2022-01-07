@@ -19,8 +19,10 @@ image:
   - [ ] Operation video record. 
   - [ ] Reasons for every step.  
   - [ ] Why the first time FPGA runs program always fails. 
-- Debug all M.Proj. Modules voltage sampling
-- Test M. Proj. program
+- [ ] Debug all M.Proj. Modules voltage sampling
+- [ ] Test all modules current and voltage stress
+- [ ] Compare nearest level modulation and with compensation
+- [ ] Program NLM compensation
 ## Pool
 - [ ] Debug protection board
 - [ ] Tax statement
