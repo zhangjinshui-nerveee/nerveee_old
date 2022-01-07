@@ -14,20 +14,23 @@ image:
 # Tasks
 
 ## Within 72 hours
-- [x] Enable sbRIO sampling (and protection)
-- [ ] BME 547 pre-lecture videos
-- [x] BOM of M.P. phase 2
-- [ ] Implement rotation in LabVIEW
+- [ ] Start up MPS-TMS machine. 
+  - [ ] Prepare equipments: 0-36V DC power, Iso-HV voltage probe, current probe.
+  - [ ] Operation video record. 
+  - [ ] Reasons for every step.  
+
 
 ## Pool
-- [ ] Try G.F. method in python.
 - [ ] Debug protection board
-- [ ] Shadow memory
 - [ ] Tax statement
 - [ ] Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters 
 - [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
 
 ## Finished
+- [x] Enable sbRIO sampling (and protection)
+- [x] BME 547 pre-lecture videos and quiz
+- [x] BOM of M.P. phase 2
+- [x] Implement rotation in LabVIEW
 - [x] BME 547 pre-lecture Assessment
 - [x] Check SSN appointment
 - [x] Flying wires to enable overvoltage protection
