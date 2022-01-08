@@ -15,7 +15,7 @@ image:
 
 ## Within 72 hours
 - [ ] Start up MPS-TMS machine. 
-  - [ ] Prepare equipments: 0-36V DC power, Iso-HV voltage probe, current probe.
+  - [x] Prepare equipments: 0-36V DC power, Iso-HV voltage probe, current probe.
   - [ ] Operation video record. 
   - [ ] Reasons for every step.  
   - [ ] Why the first time FPGA runs program always fails. 
