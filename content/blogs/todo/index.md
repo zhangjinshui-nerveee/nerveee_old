@@ -14,11 +14,12 @@ image:
 # Tasks
 
 ## Within 72 hours
-- [ ] Start up MPS-TMS machine. 
+- [ ] Start up MPS-TMS machine. (Long run)
   - [x] Prepare equipments: 0-36V DC power, Iso-HV voltage probe, current probe.
-  - [ ] Operation video record. 
-  - [ ] Reasons for every step.  
+  - [x] Operation video record. 
+  - [x] Reasons for every step.  
   - [ ] Why the first time FPGA runs program always fails. 
+  - [ ] Follow all steps of instruction, test all modules and hard parallel of MPS
 - [ ] Debug all M.Proj. Modules voltage sampling
 - [ ] Test all modules current and voltage stress
 - [ ] Compare nearest level modulation and with compensation
