@@ -98,8 +98,3 @@ image:
 - [x] Debug LabVIEW program (dare we?) [ok] 
 - [x] Review M.L. notes and finish homework 4.1
 
-# Experience
-
-
-
-
