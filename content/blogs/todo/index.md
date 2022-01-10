@@ -21,19 +21,18 @@ image:
 - Debug protection board
 - Tax statement
 
-# Paper Review
-> Delayed Gratification
-  - 2 Papers out of 10 about (Medical) power electronics per week (takes about 3 hours)
-  - 2 papers out of 5 about TMS and BMI (takes about 3 hours) <br>
-  >  collect papers during weekdays and read them on Saturday (Print to read, take notes on Tablet)<br>
-  - A "maker" night where we all work on a random, non-work project.
+# Paper Review 
+## Power Electronics
+### This week
 
-## This week
-- [ ] [Implementation of nearest level modulation for Modular Multilevel Converter](https://ieeexplore-ieee-org.proxy.lib.duke.edu/document/7223079)
-- [ ] [Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters](ieeexplore.ieee.org/document/9531516i) 
-
-## Pool 
+### Pool 
 - [Implementation of nearest level modulation for Modular Multilevel Converter](https://ieeexplore-ieee-org.proxy.lib.duke.edu/document/7223079)
 > Priority: 7.0
 - [Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters](ieeexplore.ieee.org/document/9531516i) 
 > Priority: 8.0
+
+## TMS
+### This week
+
+### Pool 
+
