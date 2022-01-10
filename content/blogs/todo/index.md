@@ -11,6 +11,12 @@ image:
   # caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
+# Delayed Gratification
+- 2 Papers out of 10 about (Medical) power electronics per week (takes about 3 hours)
+- 2 papers out of 5 about TMS and BMI (takes about 3 hours) <br>
+>  collect papers during weekdays and read them on Saturday (Print to read, take notes on Tablet)<br>
+- A "maker" night where we all work on a random, non-work project.
+
 # Tasks
 
 ## Within 72 hours
