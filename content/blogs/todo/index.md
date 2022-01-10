@@ -14,12 +14,6 @@ image:
 # Tasks
 
 ## Within 72 hours
-- [ ] Start up MPS-TMS machine. (Long run)
-  - [x] Prepare equipments: 0-36V DC power, Iso-HV voltage probe, current probe.
-  - [x] Operation video record. 
-  - [x] Reasons for every step.  
-  - [ ] Why the first time FPGA runs program always fails. 
-  - [ ] Follow all steps of instruction, test all modules and hard parallel of MPS
 - [ ] Debug all M.Proj. Modules voltage sampling
 - [ ] Test all modules current and voltage stress
 - [ ] Compare nearest level modulation and with compensation
@@ -31,6 +25,7 @@ image:
 - [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
 
 ## Finished
+- [x] Start up MPS-TMS machine. (Long run)
 - [x] Enable sbRIO sampling (and protection)
 - [x] BME 547 pre-lecture videos and quiz
 - [x] BOM of M.P. phase 2
