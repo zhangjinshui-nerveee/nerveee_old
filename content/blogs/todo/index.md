@@ -24,16 +24,16 @@ image:
 - [ ] Compare nearest level modulation and with compensation
 - [ ] Program NLM compensation
 ## Pool
-- [ ] Debug protection board
-- [ ] Tax statement
-- [ ] Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters 
-- [ ] Paper review 3 --- Digital control of MMC (due 08-Jan)
+- Debug protection board
+- Tax statement
 
 # Paper Review
 ## This week
 - [ ] [Implementation of nearest level modulation for Modular Multilevel Converter](https://ieeexplore-ieee-org.proxy.lib.duke.edu/document/7223079)
+- [ ] [Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters](ieeexplore.ieee.org/document/9531516i) 
 
 ## Pool 
 - [Implementation of nearest level modulation for Modular Multilevel Converter](https://ieeexplore-ieee-org.proxy.lib.duke.edu/document/7223079)
+> Estimation: 7.0
+- [Low-Frequency Scheduler for Optimal Conduction Loss in Series/Parallel Modular Multilevel Converters](ieeexplore.ieee.org/document/9531516i) 
 > Estimation: 8.0
-
