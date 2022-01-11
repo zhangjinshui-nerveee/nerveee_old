@@ -64,6 +64,7 @@ In this section, we would give an overview of respectively EMC, PCB and the bond
 ## Special Topics
 - Cross talk
 - Impedance and signal reflection
+
 # Semiconductor switching and Driving Issues
 > When talking about ~MHz applications of GaN, we are always using soft-switching techniques. <br>
 
@@ -75,10 +76,6 @@ We will start from the technical support of GaN Systems Inc.
 - Zero reverse recovery of GaN HEMT leads to lower switching loss and less EMI noise. (page 9 in GN001)
 - Smaller output capacitance results in lower switching loss and easier ZVS. 
 > They assume us adopting or wanting to adopt ZVS. 
--  
-
-
-
 
 ### Other options
 
@@ -144,5 +141,18 @@ We will start from the technical support of GaN Systems Inc.
 [3] [application notes of GaN Systems Inc.](https://gansystems.com/design-center/application-notes/)<br>
 [4] [Breaking Speed Limits with GaN Power ICs](https://navitassemi.com/breaking-speed-limits-with-gan-power-ics/)<br>
 [5] [Design Recommendations for SiC MOSFETs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB7K_spMT0AhXej3IEHW09AzYQFnoECAIQAQ&url=https%3A%2F%2Fwww.microsemi.com%2Fdocument-portal%2Fdoc_download%2F136647-micronote-1826-microsemi-sic-mosfets-design-recommendations&usg=AOvVaw277z80u34b3XLi0y6IAzu5)<br>
+
+# Craftsmanship
+## Handle components with ease
+### Naming of chips
+> Knowing how the chips are named is much more important than we thought. It could save us much time searching for chips. <br>
+Products from popular companies are listed here. 
+#### Texas Instrument
+- Operational Amplifiers<br>
+OPA[number of channels][Mode]xx
+  - number of channels: skip when there is only one channel. Therefore, 3 digits mean one channel OPA. 4 digits means more than 1 chnannel. 
+  - Mode: 1xx-FET, 2xx-
+
+
 
 
