@@ -16,6 +16,7 @@ image:
 - [ ] Test all modules current and voltage stress
 - [ ] Compare nearest level modulation and with compensation
 - [ ] Program NLM compensation
+- [ ] Calculate rising / falling propagation delay of GaN HEMTs (maybe there is a frequency upper limit?)
 ## Pool
 - Debug protection board
 - Tax statement
