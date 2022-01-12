@@ -16,7 +16,6 @@ image:
 - [ ] Test all modules current and voltage stress
 - [ ] Compare nearest level modulation and with compensation
 - [ ] Program NLM compensation
-- [ ] BME547 video and quiz
 ## Pool
 - Debug protection board
 - Tax statement
