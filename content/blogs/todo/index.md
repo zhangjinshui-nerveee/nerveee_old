@@ -17,6 +17,7 @@ image:
 - [ ] Compare nearest level modulation and with compensation
 - [ ] Program NLM compensation
 - [ ] Calculate rising / falling propagation delay of GaN HEMTs (maybe there is a frequency upper limit?)
+- [ ] BME547 add LDL and cholesterol branch tasks
 ## Pool
 - Debug protection board
 - Tax statement
