@@ -13,6 +13,7 @@ image:
 
 # Tasks
 ## Within 72 hours
+- [ ] Try TCP/IP labview program
 - [ ] Test all modules current and voltage stress
 - [ ] Compare nearest level modulation and with compensation
 - [ ] Program NLM compensation
