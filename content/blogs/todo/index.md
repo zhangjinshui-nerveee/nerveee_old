@@ -14,12 +14,15 @@ image:
 # Tasks
 ## Within 72 hours
 - [ ] Try TCP/IP labview program
-- [ ] Test all modules current and voltage stress
 - [ ] Compare nearest level modulation and with compensation
 - [ ] Program NLM compensation
-- [ ] Calculate rising / falling propagation delay of GaN HEMTs (maybe there is a frequency upper limit?)
 - [ ] BME547 add LDL and cholesterol branch tasks
+
 ## Pool
+- DC net value per cycle 
+- noise for MHz output
+- Calculate rising / falling propagation delay of GaN HEMTs (maybe there is a frequency upper limit?)
+- Test all modules current and voltage stress
 - PhD exam
 - Debug protection board
 - Tax statement
