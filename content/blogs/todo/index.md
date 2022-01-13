@@ -20,6 +20,7 @@ image:
 - [ ] Calculate rising / falling propagation delay of GaN HEMTs (maybe there is a frequency upper limit?)
 - [ ] BME547 add LDL and cholesterol branch tasks
 ## Pool
+- PhD exam
 - Debug protection board
 - Tax statement
 - Build an Excel to manage components for a project (general; obtain in / out of stock and prices automaticaly from mouser.com and digikey.com) Write a python program to read links from BOM excel and update price and stock to the form.  
