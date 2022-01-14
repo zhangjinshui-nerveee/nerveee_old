@@ -18,6 +18,7 @@ image:
 - [ ] Program NLM compensation
 - [ ] BME547 add LDL and cholesterol branch tasks
 - [ ] SCTL realize sine wave generation
+- [ ] change tutorial solution file name based on 3rd Edtion
 ## Pool
 - DC net value per cycle 
 - noise for MHz output
