@@ -17,7 +17,7 @@ image:
 - [ ] Compare nearest level modulation and with compensation
 - [ ] Program NLM compensation
 - [ ] BME547 add LDL and cholesterol branch tasks
-
+- [ ] SCTL realize sine wave generation
 ## Pool
 - DC net value per cycle 
 - noise for MHz output
