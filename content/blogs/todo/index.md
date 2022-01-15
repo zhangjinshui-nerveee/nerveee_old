@@ -13,13 +13,13 @@ image:
 
 # Tasks
 ## Within 72 hours
-- [ ] Try TCP/IP labview program
-- [ ] Compare nearest level modulation and with compensation
-- [ ] Program NLM compensation
 - [ ] BME547 add LDL and cholesterol branch tasks
 - [ ] SCTL realize sine wave generation
-- [ ] change tutorial solution file name based on 3rd Edtion
 ## Pool
+- TA-ECE431 change tutorial solution file name based on 3rd Edtion
+- Try TCP/IP labview program
+- Program NLM compensation
+- Compare nearest level modulation and with compensation
 - DC net value per cycle 
 - noise for MHz output
 - Calculate rising / falling propagation delay of GaN HEMTs (maybe there is a frequency upper limit?)
