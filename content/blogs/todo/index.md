@@ -13,8 +13,8 @@ image:
 
 # Tasks
 ## Within 72 hours
-- [ ] BME547 add LDL and cholesterol branch tasks
 - [ ] SCTL realize sine wave generation
+- [ ] Prob ML. Homework
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - Try TCP/IP labview program
