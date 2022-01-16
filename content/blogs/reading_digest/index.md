@@ -69,3 +69,23 @@ Handy tool helps you alot. In the lab, use windows and PC tower to develop progr
 > You have the responsibility to make decisions. <br>
 > You have the right to make decisions. <br>
 > You have the right to make mistakes. 
+
+### What is the meaning of life. 
+Is there a way to turn all technical problems into game mode? In this world, people are wasting numberous hours on non-sense. People play games just to kill time. 
+
+But like solving a math problem, game takes wisdom and energy to go on. What if we could change or modify any question or problem into some game and let people all around the world play to solve them? 
+
+That will be the future of this planet.
+
+There are many interesting topics in power electronics that could be a good game mode. The power grid is already popular among many games, the wireless charging could definitely also become a game, like building a bridge. And MMC is surely even more interesting. 
+
+The point is, how do we interprete our technical problem? Equations, of course we need them. But they would and should never show in the solution. 
+
+And in the future, we may really live in the vitual world. Or we are now. 
+
+
+
+
+
+
+ 
