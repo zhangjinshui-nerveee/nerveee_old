@@ -13,15 +13,11 @@ image:
 
 # Tasks
 ## Within 72 hours
-- [ ] SCTL realize sine wave generation
+- [ ] Review lectures of STA561D
 - [ ] Overshooting test of GaN under different resistors
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - Try TCP/IP labview program
-- Program NLM compensation
-- Compare nearest level modulation and with compensation
-- DC net value per cycle 
-- noise for MHz output
 - Calculate rising / falling propagation delay of GaN HEMTs (maybe there is a frequency upper limit?)
 - Test all modules current and voltage stress
 - PhD exam
