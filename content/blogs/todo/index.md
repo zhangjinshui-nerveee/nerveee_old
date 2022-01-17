@@ -15,6 +15,7 @@ image:
 ## Within 72 hours
 - [ ] SCTL realize sine wave generation
 - [ ] Prob ML. Homework
+- [ ] Overshooting test of GaN under different resistors
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - Try TCP/IP labview program
