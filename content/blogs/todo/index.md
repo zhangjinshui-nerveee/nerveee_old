@@ -14,7 +14,12 @@ image:
 # Tasks
 ## Within 72 hours
 - [ ] Overshooting test of GaN under different resistors
+- [ ] Pre notes of STA561 on Wed. 
+- [ ] TA session
+- [ ] Do more experiments on high bandwidth test, save pictures for discussion
+- [ ] Charging methods sketch
 ## Pool
+- Modification to MPS
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - Try TCP/IP labview program
 - Calculate rising / falling propagation delay of GaN HEMTs (maybe there is a frequency upper limit?)
