@@ -14,8 +14,6 @@ image:
 # Tasks
 ## Within 72 hours
 - [ ] Overshooting test of GaN under different resistors
-- [ ] Pre notes of STA561 on Wed. 
-- [ ] TA session
 - [ ] Do more experiments on high bandwidth test, save pictures for discussion
 - [ ] Charging methods sketch
 ## Pool
