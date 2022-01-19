@@ -13,7 +13,6 @@ image:
 
 # Tasks
 ## Within 72 hours
-- [ ] Review lectures of STA561D
 - [ ] Overshooting test of GaN under different resistors
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
