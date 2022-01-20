@@ -13,6 +13,7 @@ image:
 
 # Tasks
 ## Within 72 hours
+- [ ] Post GaN driver debugging record on blog.
 - [ ] Overshooting test of GaN under different resistors
 - [ ] Do more experiments on high bandwidth test, save pictures for discussion
 - [ ] Charging methods sketch
