@@ -13,6 +13,8 @@ image:
 
 # Tasks
 ## Within 72 hours
+- [ ] STA Lab review
+- [ ] STA homework coding
 - [ ] Post GaN driver debugging record on blog.
 - [ ] Overshooting test of GaN under different resistors
 - [ ] Charging methods sketch
