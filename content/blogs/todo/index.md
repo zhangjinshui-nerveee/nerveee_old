@@ -13,12 +13,13 @@ image:
 
 # Tasks
 ## Within 72 hours
+- [ ] submit BME homework
 - [ ] STA Lab review
 - [ ] STA homework coding
 - [ ] Post GaN driver debugging record on blog.
 - [ ] Overshooting test of GaN under different resistors
-- [ ] Charging methods sketch
 ## Pool
+- Charging methods sketch
 - Modification to MPS
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - Try TCP/IP labview program
