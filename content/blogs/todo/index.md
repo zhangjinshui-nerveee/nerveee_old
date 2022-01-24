@@ -13,7 +13,6 @@ image:
 
 # Tasks
 ## Within 72 hours
-- [ ] submit BME homework
 - [ ] STA Lab review
 - [ ] STA homework coding
 - [ ] Post GaN driver debugging record on blog.
