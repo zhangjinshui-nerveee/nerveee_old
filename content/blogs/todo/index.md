@@ -13,11 +13,12 @@ image:
 
 # Tasks
 ## Within 72 hours
+- [ ] paper review --- How to reduce switching frequency of NLM
 - [ ] STA Lab review
 - [ ] STA homework coding
-- [ ] Post GaN driver debugging record on blog.
 - [ ] Overshooting test of GaN under different resistors
 ## Pool
+- Post GaN driver debugging record on blog.
 - Charging methods sketch
 - Modification to MPS
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
