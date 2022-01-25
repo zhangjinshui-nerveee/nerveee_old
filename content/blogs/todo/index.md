@@ -16,6 +16,7 @@ image:
 - [ ] paper review --- How to reduce switching frequency of NLM
 - [ ] STA Lab review
 - [ ] STA homework coding
+- [ ] ECE 431 homework 2 preview
 ## Pool
 - Overshooting test of GaN under different resistors
 - Post GaN driver debugging record on blog.
