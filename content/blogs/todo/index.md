@@ -13,10 +13,9 @@ image:
 
 # Tasks
 ## Within 72 hours
-- [ ] paper review --- How to reduce switching frequency of NLM
-- [ ] STA Lab review
-- [ ] STA homework coding
-- [ ] ECE 431 homework 2 preview
+- [ ] Modify MPS TMS program based on word requirements
+- [ ] BME pre-class video and quiz
+- [ ] test control panels of protection board 
 ## Pool
 - Overshooting test of GaN under different resistors
 - Post GaN driver debugging record on blog.
