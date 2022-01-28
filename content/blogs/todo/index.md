@@ -14,8 +14,9 @@ image:
 # Tasks
 ## Within 72 hours
 - [ ] Modify MPS TMS program based on word requirements
-- [ ] decide res and cap for deadtime design, (and buy necessary capacitors)
+- [ ] decide res and cap for deadtime design, (and buy necessary capacitors): capacitors, heatsinks, push button. 
 - [ ] BME pre-class video and quiz
+- [ ] grade ECE431
 ## Pool
 - Overshooting test of GaN under different resistors
 - Post GaN driver debugging record on blog.
