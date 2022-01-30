@@ -100,6 +100,42 @@ What's the difference?
 - The “cache” mode keeps credentials in memory for a certain period of time. None of the passwords are ever stored on disk, and they are purged from the cache after 15 minutes.
 - The “store” mode saves the credentials to a plain-text file on disk, and they never expire. This means that until you change your password for the Git host, you won’t ever have to type in your credentials again. The downside of this approach is that your passwords are stored in cleartext in a plain file in your home directory.
 
+# Remote access to PC tower in lab
+> Powerful computers are always heavy. But doing mass calculation doesn't means you have to carry them with you. Access your workstation anywhere by connecting two Ubuntu systems anytime and anywhere.<br>
+> Assume (at least it's true to me) that your work station is in the lab and the network it connects to is education net.(In our lab, DukeBlue wifi.)
+
+## On campus
+If you are on campus but not in the lab (like dating some girl in the cafe), you want to access your lab PC tower and finish some calculation. 
+1. Make sure your PC tower have SSH service running correctly. 
+2. Fix the IP address of your lab computer. 
+3. On your poor old laptop, which should also connect to the education wifi (DukeBlue), open terminal and key `ssh user@IP address`. 
+> It might show some security info if it's the first time connecting. 
+4. Congratulations! Your laptop now is more powerful than any laptop in this cafe!
+
+## Out of campus (no access to edu network)
+What if I am not on campus and my network is some random public wifi? Calm down. Ngrok is our savior. And just the free service it provides would be good enough. 
+1. The principle of ssh connection is the same as the previous case. The only difference is that instead of using real IP address of lab PC, ngrok will generate a virtual address after it finishes NAT (Network address translation). 
+2. How to NAT? Install ngrok. Open your terminal and key`ngrok tcp 22`. Then you are good to go. 
+3. The virtual address may look like `0.tcp.ngrok.io -p10000`. Ngrok will tell you everything after you run the command above. 
+4. Enjoy!
+
+## For data science 
+> Well, I know nothing about data science except that Jupyter Notebook makes everything in data analysis easier. 
+
+How should we use JUpyter Notebook remotely? The principle is exactly the same. 
+1. Run jupyter notebook in your lab PC. (After remotely accessing this PC, enter the path and command `jupyter notebook`). But, not just run it, you need to run it in a no-browser way. 
+```
+jupyter notebook --no-browser --port=8889
+```
+2. In your laptop, ssh connect to the jupyter server created just. 
+```
+ssh -N -f -L localhost:8884:local:8889 user@ip address
+```
+Same as before, if you are on campus, use real IP address. If not, use the ngrok virtual address. 
+3. Open your browser, and enter the server. http://localhost:8884
+Note that 8884 can be changed to other numbers, as long as it's consistent with the ssh command. 
+4. Enjoy!
+
 
 
 # References
