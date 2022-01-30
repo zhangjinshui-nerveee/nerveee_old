@@ -106,23 +106,12 @@ What's the difference?
 
 ## Connect Ubuntu / WSL2 remotely
 ### On Campus
-#### Host
+#### PC to be connected
 - ssh reuninstall
 - ssh start
 - ifconfig command to obtain IP
 
-#### Guest
-- ssh ..
-- ssh user@ip address
 
-### Out of Campus
-same as above. Then, ngrok!
-
-Only difference is that instead of using IP address, use ngrok to create tcp port. Obtain a fake address like `0.tcp.ngrok.io`. 
-Connect host by using
-```
-ssh user@0.tcp.ngrok.io -pxxxxx
-```
 
 
 # References
