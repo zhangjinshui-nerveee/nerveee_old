@@ -104,5 +104,22 @@ What's the difference?
 1. Install. But now we can't run GUI applications.
 2. Install MobaXterm. Everything is down. 
 
+## Connect Ubuntu / WSL2 remotely
+### On Campus
+#### PC to be connected
+- ssh reuninstall
+- ssh start
+- ifconfig command to obtain IP
+#### PC trying to connect 
+- ssh reuninstall
+- ssh start
+- ssh user@ip address
+
+### Out of Campus
+> ngrok
+#### PC to be connected
+
+
+
 # References
 [1] [7.14 Git Tools - Credential Storage](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
