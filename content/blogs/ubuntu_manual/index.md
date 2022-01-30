@@ -132,6 +132,7 @@ jupyter notebook --no-browser --port=8889
 ssh -N -f -L localhost:8884:local:8889 user@ip address
 ```
 Same as before, if you are on campus, use real IP address. If not, use the ngrok virtual address. 
+
 3. Open your browser, and enter the server. http://localhost:8884
 Note that 8884 can be changed to other numbers, as long as it's consistent with the ssh command. 
 4. Enjoy!
