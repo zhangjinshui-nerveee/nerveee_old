@@ -100,18 +100,6 @@ What's the difference?
 - The “cache” mode keeps credentials in memory for a certain period of time. None of the passwords are ever stored on disk, and they are purged from the cache after 15 minutes.
 - The “store” mode saves the credentials to a plain-text file on disk, and they never expire. This means that until you change your password for the Git host, you won’t ever have to type in your credentials again. The downside of this approach is that your passwords are stored in cleartext in a plain file in your home directory.
 
-## Use Ubuntu on Windows (wsl)
-1. Install. But now we can't run GUI applications.
-2. Install MobaXterm. Everything is down. 
-
-## Connect Ubuntu / WSL2 remotely
-### On Campus
-#### PC to be connected
-- ssh reuninstall
-- ssh start
-- ifconfig command to obtain IP
-
-
 
 
 # References
