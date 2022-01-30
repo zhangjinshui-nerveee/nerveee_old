@@ -14,7 +14,6 @@ image:
 # Tasks
 ## Within 72 hours
 - [ ] Modify MPS TMS program based on word requirements
-- [ ] BME pre-class video and quiz
 ## Pool
 - Overshooting test of GaN under different resistors
 - Post GaN driver debugging record on blog.
