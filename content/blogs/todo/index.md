@@ -16,15 +16,8 @@ image:
 - [ ] Modify MPS TMS program based on word requirements
 ## Pool
 - Overshooting test of GaN under different resistors
-- Post GaN driver debugging record on blog.
-- Charging methods sketch
-- Modification to MPS
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
-- Try TCP/IP labview program
-- Calculate rising / falling propagation delay of GaN HEMTs (maybe there is a frequency upper limit?)
-- Test all modules current and voltage stress
 - PhD exam
-- Debug protection board
 - Tax statement
 - Build an Excel to manage components for a project (general; obtain in / out of stock and prices automaticaly from mouser.com and digikey.com) Write a python program to read links from BOM excel and update price and stock to the form.  
 
