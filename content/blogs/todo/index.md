@@ -42,4 +42,4 @@ image:
 ### This week
 
 ### Pool 
-
+- Brain-machine interfaces and transcranial stimulation: future implications for directing functional movement and improving function after spinal injury in humans 
