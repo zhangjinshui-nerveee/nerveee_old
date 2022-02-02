@@ -13,9 +13,9 @@ image:
 
 # Tasks
 ## Within 72 hours
-- [ ] Modify MPS TMS program based on word requirements
+- [ ] Automatic parallel scheduling
+- [ ] Manuscript of modulation
 ## Pool
-- Overshooting test of GaN under different resistors
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - PhD exam
 - Tax statement
