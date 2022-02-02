@@ -137,7 +137,7 @@ Same as before, if you are on campus, use real IP address. If not, use the ngrok
 Note that 8884 can be changed to other numbers, as long as it's consistent with the ssh command. 
 4. Enjoy!
 
-# Setting up environment for Python
+## Setting up environment for Jupyter Notebook
 - 'Access to the file was denied The file at file:///run/user/1000/jupyter/nbserver-26395-open.html is not readable. It may have been removed, moved or file permissions may be preventing access.'<br>
 1. Run 'jupyter lab build'. If it fails, may need to install node.js. See the error info. Not working......
 2. Just make a launcher to circumvent the snap restraint. A simple launcher would look like:
