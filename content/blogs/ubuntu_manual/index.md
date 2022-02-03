@@ -149,5 +149,13 @@ export JUPYTER_RUNTIME_DIR=/home/$USER/Public
 
 jupyter-notebook
 ```
+
+## Pytest 
+### Github actions
+> Test your program everytime you git push
+```
+mkdir .github/workflows
+```
+
 # References
 [1] [7.14 Git Tools - Credential Storage](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
