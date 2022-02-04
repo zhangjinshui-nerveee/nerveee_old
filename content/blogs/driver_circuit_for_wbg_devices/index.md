@@ -142,6 +142,7 @@ We will start from the technical support of GaN Systems Inc.
 [4] [Breaking Speed Limits with GaN Power ICs](https://navitassemi.com/breaking-speed-limits-with-gan-power-ics/)<br>
 [5] [Design Recommendations for SiC MOSFETs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjB7K_spMT0AhXej3IEHW09AzYQFnoECAIQAQ&url=https%3A%2F%2Fwww.microsemi.com%2Fdocument-portal%2Fdoc_download%2F136647-micronote-1826-microsemi-sic-mosfets-design-recommendations&usg=AOvVaw277z80u34b3XLi0y6IAzu5)<br>
 [6] [TI review of GaN related questions](https://training.ti.com/gan-demystified-frequently-asked-questions)
+
 # Craftsmanship
 ## Handle components with ease
 ### Naming of chips
@@ -154,5 +155,11 @@ OPA[number of channels][Mode]xx
   - Mode: 1xx-FET, 2xx-
 
 
-
+# When writing a paper
+- In the paper, you are not telling reader what you did exactly, you are selling them what's worth publishing. For example, you made a big machine to test your idea. Even though you may have spent a lot of money and energy on this machine, but finally what's the most important thing in this paper is how you organize and implement your idea. People don't need and don't want to know how you built this machine. 
+- When writing, ask yourself, constantly: 
+  - What am I trying to say? 
+  - Have I said it?
+  - Is it clear to someone encountering the subject for the first time?
+-
 
