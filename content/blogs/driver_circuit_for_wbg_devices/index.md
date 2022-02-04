@@ -1,5 +1,5 @@
 ---
-title: Driver Circuit for WBG Devices
+title: Power Electronics
 summary: Trying to understand and figure out good designs for driving GaN HEMT / SiC MOSFET.
 date: 2021-03-22
 math: true
