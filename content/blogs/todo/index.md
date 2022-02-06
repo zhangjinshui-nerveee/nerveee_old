@@ -15,7 +15,7 @@ image:
 ## Within 72 hours
 - [ ] Automatic parallel scheduling
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
-- [ ] BME homework
+- [ ] Timeline till July about M. project.
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - PhD exam
