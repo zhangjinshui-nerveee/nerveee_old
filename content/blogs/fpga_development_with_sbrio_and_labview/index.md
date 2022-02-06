@@ -19,13 +19,7 @@ image:
 > [Understanding Timing Considerations for FPGA VIs (FPGA Module)](https://zone.ni.com/reference/en-XX/help/371599P-01/lvfpgaconcepts/registers/)<br>
 > Propagation delay is the time it takes a signal to travel from one register to the next. Because registers update every clock cycle, the propagation delay must not exceed the clock cycle.
 
-# Things we should know 
-> I have just started using FPGA for one or two weeks. 
 
-## Market
-- Comparison
-
-## Development Environment
 
 ## Running python script in labview
 - Notice: FPGA is only support by 32-bit LabVIEW. Therefore the python should be also 32-bit.
@@ -107,5 +101,9 @@ Read/Write nodes are good candidates for transferring multiple pieces of informa
 - I guess we could read the analog input directly. But something is wrong now. When I connect the AI0-11 to the output of modules, their values are changing wiredly.
 - Do never measure a floating pin. Such a rookie mistake. 
 
-
+## Timing Issues
+> Know exactly timing of every detial is really important, and difficult. 
+- Timing of while loop (FPGA): Suppose we have a if-case inside the while loop, the true-case will trigger a long-time (say 100us) delay, but false won't. Then what's the timing of the while loop? Always takes 100+us? 
+  - In PC level, while loop timing will depend on the case input. True and False conditions will have different loop timing depending on their certain program content. 
+  - In FPGA level, the thing is the same.
 

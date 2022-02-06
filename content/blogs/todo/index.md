@@ -15,7 +15,12 @@ image:
 ## Within 72 hours
 - [ ] Automatic parallel scheduling
 - [ ] Manuscript of modulation: draw pictures yourself and then do the measurement
+<<<<<<< HEAD
 - [ ] Timeline till July about M. project.
+=======
+- [ ] Add development process to BME homework
+- [ ] Start programing MPS-TMS optimization
+>>>>>>> 305cca885c8f3a92f2ca023b2235d80acde49a74
 ## Pool
 - TA-ECE431 change tutorial solution file name based on 3rd Edtion
 - PhD exam
