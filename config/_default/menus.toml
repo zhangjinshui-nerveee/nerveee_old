@@ -19,11 +19,6 @@
   weight = 20
 
 [[main]]
-  name = "Honors"
-  url = "#honors"
-  weight = 40
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 100
